@@ -1,0 +1,871 @@
+/* line 22, ../../sass/themes/ible-theme.original.scss */
+.t-default a {
+  color: #004D99;
+  cursor: pointer; }
+  /* line 25, ../../sass/themes/ible-theme.original.scss */
+  .t-default a:hover {
+    color: #0073e6; }
+
+/* line 31, ../../sass/themes/ible-theme.original.scss */
+.ible-bgcolor-01 {
+  background-color: #004D99; }
+  /* line 33, ../../sass/themes/ible-theme.original.scss */
+  .ible-bgcolor-01.btn, .ible-bgcolor-01[href] {
+    border-color: #004D99; }
+    /* line 37, ../../sass/themes/ible-theme.original.scss */
+    .ible-bgcolor-01.btn:hover, .ible-bgcolor-01.btn:active, .ible-bgcolor-01.btn:focus, .ible-bgcolor-01[href]:hover, .ible-bgcolor-01[href]:active, .ible-bgcolor-01[href]:focus {
+      background-color: #0073e6;
+      border-color: #0073e6; }
+
+/* line 31, ../../sass/themes/ible-theme.original.scss */
+.ible-bgcolor-01-01 {
+  background-color: #7fa6cc; }
+  /* line 33, ../../sass/themes/ible-theme.original.scss */
+  .ible-bgcolor-01-01.btn, .ible-bgcolor-01-01[href] {
+    border-color: #7fa6cc; }
+    /* line 37, ../../sass/themes/ible-theme.original.scss */
+    .ible-bgcolor-01-01.btn:hover, .ible-bgcolor-01-01.btn:active, .ible-bgcolor-01-01.btn:focus, .ible-bgcolor-01-01[href]:hover, .ible-bgcolor-01-01[href]:active, .ible-bgcolor-01-01[href]:focus {
+      background-color: #b6cce2;
+      border-color: #b6cce2; }
+
+/* line 31, ../../sass/themes/ible-theme.original.scss */
+.ible-bgcolor-01-02 {
+  background-color: #557ba1; }
+  /* line 33, ../../sass/themes/ible-theme.original.scss */
+  .ible-bgcolor-01-02.btn, .ible-bgcolor-01-02[href] {
+    border-color: #557ba1; }
+    /* line 37, ../../sass/themes/ible-theme.original.scss */
+    .ible-bgcolor-01-02.btn:hover, .ible-bgcolor-01-02.btn:active, .ible-bgcolor-01-02.btn:focus, .ible-bgcolor-01-02[href]:hover, .ible-bgcolor-01-02[href]:active, .ible-bgcolor-01-02[href]:focus {
+      background-color: #84a1be;
+      border-color: #84a1be; }
+
+/* line 31, ../../sass/themes/ible-theme.original.scss */
+.ible-bgcolor-01-03 {
+  background-color: #40668c; }
+  /* line 33, ../../sass/themes/ible-theme.original.scss */
+  .ible-bgcolor-01-03.btn, .ible-bgcolor-01-03[href] {
+    border-color: #40668c; }
+    /* line 37, ../../sass/themes/ible-theme.original.scss */
+    .ible-bgcolor-01-03.btn:hover, .ible-bgcolor-01-03.btn:active, .ible-bgcolor-01-03.btn:focus, .ible-bgcolor-01-03[href]:hover, .ible-bgcolor-01-03[href]:active, .ible-bgcolor-01-03[href]:focus {
+      background-color: #628cb7;
+      border-color: #628cb7; }
+
+/* line 31, ../../sass/themes/ible-theme.original.scss */
+.ible-bgcolor-01-04 {
+  background-color: #2a5177; }
+  /* line 33, ../../sass/themes/ible-theme.original.scss */
+  .ible-bgcolor-01-04.btn, .ible-bgcolor-01-04[href] {
+    border-color: #2a5177; }
+    /* line 37, ../../sass/themes/ible-theme.original.scss */
+    .ible-bgcolor-01-04.btn:hover, .ible-bgcolor-01-04.btn:active, .ible-bgcolor-01-04.btn:focus, .ible-bgcolor-01-04[href]:hover, .ible-bgcolor-01-04[href]:active, .ible-bgcolor-01-04[href]:focus {
+      background-color: #3e77b0;
+      border-color: #3e77b0; }
+
+/* line 31, ../../sass/themes/ible-theme.original.scss */
+.ible-bgcolor-01-05 {
+  background-color: #153b61; }
+  /* line 33, ../../sass/themes/ible-theme.original.scss */
+  .ible-bgcolor-01-05.btn, .ible-bgcolor-01-05[href] {
+    border-color: #153b61; }
+    /* line 37, ../../sass/themes/ible-theme.original.scss */
+    .ible-bgcolor-01-05.btn:hover, .ible-bgcolor-01-05.btn:active, .ible-bgcolor-01-05.btn:focus, .ible-bgcolor-01-05[href]:hover, .ible-bgcolor-01-05[href]:active, .ible-bgcolor-01-05[href]:focus {
+      background-color: #2361a0;
+      border-color: #2361a0; }
+
+/* line 59, ../../sass/themes/ible-theme.original.scss */
+.ible-bordercolor-01 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #004D99; }
+  /* line 63, ../../sass/themes/ible-theme.original.scss */
+  .ible-bordercolor-01.btn, .ible-bordercolor-01[href] {
+    border-color: #004D99; }
+
+/* line 59, ../../sass/themes/ible-theme.original.scss */
+.ible-bordercolor-01-01 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #7fa6cc; }
+  /* line 63, ../../sass/themes/ible-theme.original.scss */
+  .ible-bordercolor-01-01.btn, .ible-bordercolor-01-01[href] {
+    border-color: #7fa6cc; }
+
+/* line 59, ../../sass/themes/ible-theme.original.scss */
+.ible-bordercolor-01-02 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #557ba1; }
+  /* line 63, ../../sass/themes/ible-theme.original.scss */
+  .ible-bordercolor-01-02.btn, .ible-bordercolor-01-02[href] {
+    border-color: #557ba1; }
+
+/* line 59, ../../sass/themes/ible-theme.original.scss */
+.ible-bordercolor-01-03 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #40668c; }
+  /* line 63, ../../sass/themes/ible-theme.original.scss */
+  .ible-bordercolor-01-03.btn, .ible-bordercolor-01-03[href] {
+    border-color: #40668c; }
+
+/* line 59, ../../sass/themes/ible-theme.original.scss */
+.ible-bordercolor-01-04 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #2a5177; }
+  /* line 63, ../../sass/themes/ible-theme.original.scss */
+  .ible-bordercolor-01-04.btn, .ible-bordercolor-01-04[href] {
+    border-color: #2a5177; }
+
+/* line 59, ../../sass/themes/ible-theme.original.scss */
+.ible-bordercolor-01-05 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #153b61; }
+  /* line 63, ../../sass/themes/ible-theme.original.scss */
+  .ible-bordercolor-01-05.btn, .ible-bordercolor-01-05[href] {
+    border-color: #153b61; }
+
+/* line 81, ../../sass/themes/ible-theme.original.scss */
+.ible-fontcolor-01 {
+  color: #004D99; }
+  /* line 87, ../../sass/themes/ible-theme.original.scss */
+  .ible-fontcolor-01.btn:hover, .ible-fontcolor-01.btn:active, .ible-fontcolor-01.btn:focus, .ible-fontcolor-01[href]:hover, .ible-fontcolor-01[href]:active, .ible-fontcolor-01[href]:focus {
+    color: #0073e6; }
+
+/* line 81, ../../sass/themes/ible-theme.original.scss */
+.ible-fontcolor-01-01 {
+  color: #7fa6cc; }
+  /* line 87, ../../sass/themes/ible-theme.original.scss */
+  .ible-fontcolor-01-01.btn:hover, .ible-fontcolor-01-01.btn:active, .ible-fontcolor-01-01.btn:focus, .ible-fontcolor-01-01[href]:hover, .ible-fontcolor-01-01[href]:active, .ible-fontcolor-01-01[href]:focus {
+    color: #b6cce2; }
+
+/* line 81, ../../sass/themes/ible-theme.original.scss */
+.ible-fontcolor-01-02 {
+  color: #557ba1; }
+  /* line 87, ../../sass/themes/ible-theme.original.scss */
+  .ible-fontcolor-01-02.btn:hover, .ible-fontcolor-01-02.btn:active, .ible-fontcolor-01-02.btn:focus, .ible-fontcolor-01-02[href]:hover, .ible-fontcolor-01-02[href]:active, .ible-fontcolor-01-02[href]:focus {
+    color: #84a1be; }
+
+/* line 81, ../../sass/themes/ible-theme.original.scss */
+.ible-fontcolor-01-03 {
+  color: #40668c; }
+  /* line 87, ../../sass/themes/ible-theme.original.scss */
+  .ible-fontcolor-01-03.btn:hover, .ible-fontcolor-01-03.btn:active, .ible-fontcolor-01-03.btn:focus, .ible-fontcolor-01-03[href]:hover, .ible-fontcolor-01-03[href]:active, .ible-fontcolor-01-03[href]:focus {
+    color: #628cb7; }
+
+/* line 81, ../../sass/themes/ible-theme.original.scss */
+.ible-fontcolor-01-04 {
+  color: #2a5177; }
+  /* line 87, ../../sass/themes/ible-theme.original.scss */
+  .ible-fontcolor-01-04.btn:hover, .ible-fontcolor-01-04.btn:active, .ible-fontcolor-01-04.btn:focus, .ible-fontcolor-01-04[href]:hover, .ible-fontcolor-01-04[href]:active, .ible-fontcolor-01-04[href]:focus {
+    color: #3e77b0; }
+
+/* line 81, ../../sass/themes/ible-theme.original.scss */
+.ible-fontcolor-01-05 {
+  color: #153b61; }
+  /* line 87, ../../sass/themes/ible-theme.original.scss */
+  .ible-fontcolor-01-05.btn:hover, .ible-fontcolor-01-05.btn:active, .ible-fontcolor-01-05.btn:focus, .ible-fontcolor-01-05[href]:hover, .ible-fontcolor-01-05[href]:active, .ible-fontcolor-01-05[href]:focus {
+    color: #2361a0; }
+
+/* line 111, ../../sass/themes/ible-theme.original.scss */
+.ible-bgcolor-02 {
+  background-color: #2A7ED0; }
+  /* line 113, ../../sass/themes/ible-theme.original.scss */
+  .ible-bgcolor-02.btn, .ible-bgcolor-02[href] {
+    border-color: #2A7ED0; }
+    /* line 117, ../../sass/themes/ible-theme.original.scss */
+    .ible-bgcolor-02.btn:hover, .ible-bgcolor-02.btn:active, .ible-bgcolor-02.btn:focus, .ible-bgcolor-02[href]:hover, .ible-bgcolor-02[href]:active, .ible-bgcolor-02[href]:focus {
+      background-color: #66a4e0;
+      border-color: #66a4e0; }
+
+/* line 111, ../../sass/themes/ible-theme.original.scss */
+.ible-bgcolor-02-01 {
+  background-color: #94bee7; }
+  /* line 113, ../../sass/themes/ible-theme.original.scss */
+  .ible-bgcolor-02-01.btn, .ible-bgcolor-02-01[href] {
+    border-color: #94bee7; }
+    /* line 117, ../../sass/themes/ible-theme.original.scss */
+    .ible-bgcolor-02-01.btn:hover, .ible-bgcolor-02-01.btn:active, .ible-bgcolor-02-01.btn:focus, .ible-bgcolor-02-01[href]:hover, .ible-bgcolor-02-01[href]:active, .ible-bgcolor-02-01[href]:focus {
+      background-color: #d2e4f5;
+      border-color: #d2e4f5; }
+
+/* line 111, ../../sass/themes/ible-theme.original.scss */
+.ible-bgcolor-02-02 {
+  background-color: #6a94bd; }
+  /* line 113, ../../sass/themes/ible-theme.original.scss */
+  .ible-bgcolor-02-02.btn, .ible-bgcolor-02-02[href] {
+    border-color: #6a94bd; }
+    /* line 117, ../../sass/themes/ible-theme.original.scss */
+    .ible-bgcolor-02-02.btn:hover, .ible-bgcolor-02-02.btn:active, .ible-bgcolor-02-02.btn:focus, .ible-bgcolor-02-02[href]:hover, .ible-bgcolor-02-02[href]:active, .ible-bgcolor-02-02[href]:focus {
+      background-color: #9fbad4;
+      border-color: #9fbad4; }
+
+/* line 111, ../../sass/themes/ible-theme.original.scss */
+.ible-bgcolor-02-03 {
+  background-color: #557fa8; }
+  /* line 113, ../../sass/themes/ible-theme.original.scss */
+  .ible-bgcolor-02-03.btn, .ible-bgcolor-02-03[href] {
+    border-color: #557fa8; }
+    /* line 117, ../../sass/themes/ible-theme.original.scss */
+    .ible-bgcolor-02-03.btn:hover, .ible-bgcolor-02-03.btn:active, .ible-bgcolor-02-03.btn:focus, .ible-bgcolor-02-03[href]:hover, .ible-bgcolor-02-03[href]:active, .ible-bgcolor-02-03[href]:focus {
+      background-color: #87a5c2;
+      border-color: #87a5c2; }
+
+/* line 111, ../../sass/themes/ible-theme.original.scss */
+.ible-bgcolor-02-04 {
+  background-color: #3f6992; }
+  /* line 113, ../../sass/themes/ible-theme.original.scss */
+  .ible-bgcolor-02-04.btn, .ible-bgcolor-02-04[href] {
+    border-color: #3f6992; }
+    /* line 117, ../../sass/themes/ible-theme.original.scss */
+    .ible-bgcolor-02-04.btn:hover, .ible-bgcolor-02-04.btn:active, .ible-bgcolor-02-04.btn:focus, .ible-bgcolor-02-04[href]:hover, .ible-bgcolor-02-04[href]:active, .ible-bgcolor-02-04[href]:focus {
+      background-color: #628fbb;
+      border-color: #628fbb; }
+
+/* line 111, ../../sass/themes/ible-theme.original.scss */
+.ible-bgcolor-02-05 {
+  background-color: #2a547d; }
+  /* line 113, ../../sass/themes/ible-theme.original.scss */
+  .ible-bgcolor-02-05.btn, .ible-bgcolor-02-05[href] {
+    border-color: #2a547d; }
+    /* line 117, ../../sass/themes/ible-theme.original.scss */
+    .ible-bgcolor-02-05.btn:hover, .ible-bgcolor-02-05.btn:active, .ible-bgcolor-02-05.btn:focus, .ible-bgcolor-02-05[href]:hover, .ible-bgcolor-02-05[href]:active, .ible-bgcolor-02-05[href]:focus {
+      background-color: #3d7ab6;
+      border-color: #3d7ab6; }
+
+/* line 137, ../../sass/themes/ible-theme.original.scss */
+.ible-bordercolor-02 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #2A7ED0; }
+  /* line 141, ../../sass/themes/ible-theme.original.scss */
+  .ible-bordercolor-02.btn, .ible-bordercolor-02[href] {
+    border-color: #2A7ED0; }
+
+/* line 137, ../../sass/themes/ible-theme.original.scss */
+.ible-bordercolor-02-01 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #94bee7; }
+  /* line 141, ../../sass/themes/ible-theme.original.scss */
+  .ible-bordercolor-02-01.btn, .ible-bordercolor-02-01[href] {
+    border-color: #94bee7; }
+
+/* line 137, ../../sass/themes/ible-theme.original.scss */
+.ible-bordercolor-02-02 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #6a94bd; }
+  /* line 141, ../../sass/themes/ible-theme.original.scss */
+  .ible-bordercolor-02-02.btn, .ible-bordercolor-02-02[href] {
+    border-color: #6a94bd; }
+
+/* line 137, ../../sass/themes/ible-theme.original.scss */
+.ible-bordercolor-02-03 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #557fa8; }
+  /* line 141, ../../sass/themes/ible-theme.original.scss */
+  .ible-bordercolor-02-03.btn, .ible-bordercolor-02-03[href] {
+    border-color: #557fa8; }
+
+/* line 137, ../../sass/themes/ible-theme.original.scss */
+.ible-bordercolor-02-04 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #3f6992; }
+  /* line 141, ../../sass/themes/ible-theme.original.scss */
+  .ible-bordercolor-02-04.btn, .ible-bordercolor-02-04[href] {
+    border-color: #3f6992; }
+
+/* line 137, ../../sass/themes/ible-theme.original.scss */
+.ible-bordercolor-02-05 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #2a547d; }
+  /* line 141, ../../sass/themes/ible-theme.original.scss */
+  .ible-bordercolor-02-05.btn, .ible-bordercolor-02-05[href] {
+    border-color: #2a547d; }
+
+/* line 160, ../../sass/themes/ible-theme.original.scss */
+.ible-bordercolor-02 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #2A7ED0; }
+  /* line 164, ../../sass/themes/ible-theme.original.scss */
+  .ible-bordercolor-02.btn, .ible-bordercolor-02[href] {
+    border-color: #2A7ED0; }
+
+/* line 160, ../../sass/themes/ible-theme.original.scss */
+.ible-bordercolor-02-01 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #94bee7; }
+  /* line 164, ../../sass/themes/ible-theme.original.scss */
+  .ible-bordercolor-02-01.btn, .ible-bordercolor-02-01[href] {
+    border-color: #94bee7; }
+
+/* line 160, ../../sass/themes/ible-theme.original.scss */
+.ible-bordercolor-02-02 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #6a94bd; }
+  /* line 164, ../../sass/themes/ible-theme.original.scss */
+  .ible-bordercolor-02-02.btn, .ible-bordercolor-02-02[href] {
+    border-color: #6a94bd; }
+
+/* line 160, ../../sass/themes/ible-theme.original.scss */
+.ible-bordercolor-02-03 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #557fa8; }
+  /* line 164, ../../sass/themes/ible-theme.original.scss */
+  .ible-bordercolor-02-03.btn, .ible-bordercolor-02-03[href] {
+    border-color: #557fa8; }
+
+/* line 160, ../../sass/themes/ible-theme.original.scss */
+.ible-bordercolor-02-04 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #3f6992; }
+  /* line 164, ../../sass/themes/ible-theme.original.scss */
+  .ible-bordercolor-02-04.btn, .ible-bordercolor-02-04[href] {
+    border-color: #3f6992; }
+
+/* line 160, ../../sass/themes/ible-theme.original.scss */
+.ible-bordercolor-02-05 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #2a547d; }
+  /* line 164, ../../sass/themes/ible-theme.original.scss */
+  .ible-bordercolor-02-05.btn, .ible-bordercolor-02-05[href] {
+    border-color: #2a547d; }
+
+/* line 182, ../../sass/themes/ible-theme.original.scss */
+.ible-fontcolor-02 {
+  color: #2A7ED0; }
+  /* line 188, ../../sass/themes/ible-theme.original.scss */
+  .ible-fontcolor-02.btn:hover, .ible-fontcolor-02.btn:active, .ible-fontcolor-02.btn:focus, .ible-fontcolor-02[href]:hover, .ible-fontcolor-02[href]:active, .ible-fontcolor-02[href]:focus {
+    color: #66a4e0; }
+
+/* line 182, ../../sass/themes/ible-theme.original.scss */
+.ible-fontcolor-02-01 {
+  color: #94bee7; }
+  /* line 188, ../../sass/themes/ible-theme.original.scss */
+  .ible-fontcolor-02-01.btn:hover, .ible-fontcolor-02-01.btn:active, .ible-fontcolor-02-01.btn:focus, .ible-fontcolor-02-01[href]:hover, .ible-fontcolor-02-01[href]:active, .ible-fontcolor-02-01[href]:focus {
+    color: #d2e4f5; }
+
+/* line 182, ../../sass/themes/ible-theme.original.scss */
+.ible-fontcolor-02-02 {
+  color: #6a94bd; }
+  /* line 188, ../../sass/themes/ible-theme.original.scss */
+  .ible-fontcolor-02-02.btn:hover, .ible-fontcolor-02-02.btn:active, .ible-fontcolor-02-02.btn:focus, .ible-fontcolor-02-02[href]:hover, .ible-fontcolor-02-02[href]:active, .ible-fontcolor-02-02[href]:focus {
+    color: #9fbad4; }
+
+/* line 182, ../../sass/themes/ible-theme.original.scss */
+.ible-fontcolor-02-03 {
+  color: #557fa8; }
+  /* line 188, ../../sass/themes/ible-theme.original.scss */
+  .ible-fontcolor-02-03.btn:hover, .ible-fontcolor-02-03.btn:active, .ible-fontcolor-02-03.btn:focus, .ible-fontcolor-02-03[href]:hover, .ible-fontcolor-02-03[href]:active, .ible-fontcolor-02-03[href]:focus {
+    color: #87a5c2; }
+
+/* line 182, ../../sass/themes/ible-theme.original.scss */
+.ible-fontcolor-02-04 {
+  color: #3f6992; }
+  /* line 188, ../../sass/themes/ible-theme.original.scss */
+  .ible-fontcolor-02-04.btn:hover, .ible-fontcolor-02-04.btn:active, .ible-fontcolor-02-04.btn:focus, .ible-fontcolor-02-04[href]:hover, .ible-fontcolor-02-04[href]:active, .ible-fontcolor-02-04[href]:focus {
+    color: #628fbb; }
+
+/* line 182, ../../sass/themes/ible-theme.original.scss */
+.ible-fontcolor-02-05 {
+  color: #2a547d; }
+  /* line 188, ../../sass/themes/ible-theme.original.scss */
+  .ible-fontcolor-02-05.btn:hover, .ible-fontcolor-02-05.btn:active, .ible-fontcolor-02-05.btn:focus, .ible-fontcolor-02-05[href]:hover, .ible-fontcolor-02-05[href]:active, .ible-fontcolor-02-05[href]:focus {
+    color: #3d7ab6; }
+
+/* line 211, ../../sass/themes/ible-theme.original.scss */
+.ible-bgcolor-03 {
+  background-color: #FF3232; }
+  /* line 213, ../../sass/themes/ible-theme.original.scss */
+  .ible-bgcolor-03.btn, .ible-bgcolor-03[href] {
+    border-color: #FF3232; }
+    /* line 217, ../../sass/themes/ible-theme.original.scss */
+    .ible-bgcolor-03.btn:hover, .ible-bgcolor-03.btn:active, .ible-bgcolor-03.btn:focus, .ible-bgcolor-03[href]:hover, .ible-bgcolor-03[href]:active, .ible-bgcolor-03[href]:focus {
+      background-color: #ff7f7f;
+      border-color: #ff7f7f; }
+
+/* line 211, ../../sass/themes/ible-theme.original.scss */
+.ible-bgcolor-03-01 {
+  background-color: #ff9898; }
+  /* line 213, ../../sass/themes/ible-theme.original.scss */
+  .ible-bgcolor-03-01.btn, .ible-bgcolor-03-01[href] {
+    border-color: #ff9898; }
+    /* line 217, ../../sass/themes/ible-theme.original.scss */
+    .ible-bgcolor-03-01.btn:hover, .ible-bgcolor-03-01.btn:active, .ible-bgcolor-03-01.btn:focus, .ible-bgcolor-03-01[href]:hover, .ible-bgcolor-03-01[href]:active, .ible-bgcolor-03-01[href]:focus {
+      background-color: #ffe5e5;
+      border-color: #ffe5e5; }
+
+/* line 211, ../../sass/themes/ible-theme.original.scss */
+.ible-bgcolor-03-02 {
+  background-color: #d46e6e; }
+  /* line 213, ../../sass/themes/ible-theme.original.scss */
+  .ible-bgcolor-03-02.btn, .ible-bgcolor-03-02[href] {
+    border-color: #d46e6e; }
+    /* line 217, ../../sass/themes/ible-theme.original.scss */
+    .ible-bgcolor-03-02.btn:hover, .ible-bgcolor-03-02.btn:active, .ible-bgcolor-03-02.btn:focus, .ible-bgcolor-03-02[href]:hover, .ible-bgcolor-03-02[href]:active, .ible-bgcolor-03-02[href]:focus {
+      background-color: #e5a9a9;
+      border-color: #e5a9a9; }
+
+/* line 211, ../../sass/themes/ible-theme.original.scss */
+.ible-bgcolor-03-03 {
+  background-color: #bf5959; }
+  /* line 213, ../../sass/themes/ible-theme.original.scss */
+  .ible-bgcolor-03-03.btn, .ible-bgcolor-03-03[href] {
+    border-color: #bf5959; }
+    /* line 217, ../../sass/themes/ible-theme.original.scss */
+    .ible-bgcolor-03-03.btn:hover, .ible-bgcolor-03-03.btn:active, .ible-bgcolor-03-03.btn:focus, .ible-bgcolor-03-03[href]:hover, .ible-bgcolor-03-03[href]:active, .ible-bgcolor-03-03[href]:focus {
+      background-color: #d49090;
+      border-color: #d49090; }
+
+/* line 211, ../../sass/themes/ible-theme.original.scss */
+.ible-bgcolor-03-04 {
+  background-color: #aa4343; }
+  /* line 213, ../../sass/themes/ible-theme.original.scss */
+  .ible-bgcolor-03-04.btn, .ible-bgcolor-03-04[href] {
+    border-color: #aa4343; }
+    /* line 217, ../../sass/themes/ible-theme.original.scss */
+    .ible-bgcolor-03-04.btn:hover, .ible-bgcolor-03-04.btn:active, .ible-bgcolor-03-04.btn:focus, .ible-bgcolor-03-04[href]:hover, .ible-bgcolor-03-04[href]:active, .ible-bgcolor-03-04[href]:focus {
+      background-color: #c77272;
+      border-color: #c77272; }
+
+/* line 211, ../../sass/themes/ible-theme.original.scss */
+.ible-bgcolor-03-05 {
+  background-color: #942e2e; }
+  /* line 213, ../../sass/themes/ible-theme.original.scss */
+  .ible-bgcolor-03-05.btn, .ible-bgcolor-03-05[href] {
+    border-color: #942e2e; }
+    /* line 217, ../../sass/themes/ible-theme.original.scss */
+    .ible-bgcolor-03-05.btn:hover, .ible-bgcolor-03-05.btn:active, .ible-bgcolor-03-05.btn:focus, .ible-bgcolor-03-05[href]:hover, .ible-bgcolor-03-05[href]:active, .ible-bgcolor-03-05[href]:focus {
+      background-color: #c64848;
+      border-color: #c64848; }
+
+/* line 237, ../../sass/themes/ible-theme.original.scss */
+.ible-bordercolor-03 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #FF3232; }
+  /* line 241, ../../sass/themes/ible-theme.original.scss */
+  .ible-bordercolor-03.btn, .ible-bordercolor-03[href] {
+    border-color: #FF3232; }
+
+/* line 237, ../../sass/themes/ible-theme.original.scss */
+.ible-bordercolor-03-01 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #ff9898; }
+  /* line 241, ../../sass/themes/ible-theme.original.scss */
+  .ible-bordercolor-03-01.btn, .ible-bordercolor-03-01[href] {
+    border-color: #ff9898; }
+
+/* line 237, ../../sass/themes/ible-theme.original.scss */
+.ible-bordercolor-03-02 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #d46e6e; }
+  /* line 241, ../../sass/themes/ible-theme.original.scss */
+  .ible-bordercolor-03-02.btn, .ible-bordercolor-03-02[href] {
+    border-color: #d46e6e; }
+
+/* line 237, ../../sass/themes/ible-theme.original.scss */
+.ible-bordercolor-03-03 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #bf5959; }
+  /* line 241, ../../sass/themes/ible-theme.original.scss */
+  .ible-bordercolor-03-03.btn, .ible-bordercolor-03-03[href] {
+    border-color: #bf5959; }
+
+/* line 237, ../../sass/themes/ible-theme.original.scss */
+.ible-bordercolor-03-04 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #aa4343; }
+  /* line 241, ../../sass/themes/ible-theme.original.scss */
+  .ible-bordercolor-03-04.btn, .ible-bordercolor-03-04[href] {
+    border-color: #aa4343; }
+
+/* line 237, ../../sass/themes/ible-theme.original.scss */
+.ible-bordercolor-03-05 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #942e2e; }
+  /* line 241, ../../sass/themes/ible-theme.original.scss */
+  .ible-bordercolor-03-05.btn, .ible-bordercolor-03-05[href] {
+    border-color: #942e2e; }
+
+/* line 261, ../../sass/themes/ible-theme.original.scss */
+.ible-fontcolor-03 {
+  color: #FF3232; }
+  /* line 267, ../../sass/themes/ible-theme.original.scss */
+  .ible-fontcolor-03.btn:hover, .ible-fontcolor-03.btn:active, .ible-fontcolor-03.btn:focus, .ible-fontcolor-03[href]:hover, .ible-fontcolor-03[href]:active, .ible-fontcolor-03[href]:focus {
+    color: #ff7f7f; }
+
+/* line 261, ../../sass/themes/ible-theme.original.scss */
+.ible-fontcolor-03-01 {
+  color: #ff9898; }
+  /* line 267, ../../sass/themes/ible-theme.original.scss */
+  .ible-fontcolor-03-01.btn:hover, .ible-fontcolor-03-01.btn:active, .ible-fontcolor-03-01.btn:focus, .ible-fontcolor-03-01[href]:hover, .ible-fontcolor-03-01[href]:active, .ible-fontcolor-03-01[href]:focus {
+    color: #ffe5e5; }
+
+/* line 261, ../../sass/themes/ible-theme.original.scss */
+.ible-fontcolor-03-02 {
+  color: #d46e6e; }
+  /* line 267, ../../sass/themes/ible-theme.original.scss */
+  .ible-fontcolor-03-02.btn:hover, .ible-fontcolor-03-02.btn:active, .ible-fontcolor-03-02.btn:focus, .ible-fontcolor-03-02[href]:hover, .ible-fontcolor-03-02[href]:active, .ible-fontcolor-03-02[href]:focus {
+    color: #e5a9a9; }
+
+/* line 261, ../../sass/themes/ible-theme.original.scss */
+.ible-fontcolor-03-03 {
+  color: #bf5959; }
+  /* line 267, ../../sass/themes/ible-theme.original.scss */
+  .ible-fontcolor-03-03.btn:hover, .ible-fontcolor-03-03.btn:active, .ible-fontcolor-03-03.btn:focus, .ible-fontcolor-03-03[href]:hover, .ible-fontcolor-03-03[href]:active, .ible-fontcolor-03-03[href]:focus {
+    color: #d49090; }
+
+/* line 261, ../../sass/themes/ible-theme.original.scss */
+.ible-fontcolor-03-04 {
+  color: #aa4343; }
+  /* line 267, ../../sass/themes/ible-theme.original.scss */
+  .ible-fontcolor-03-04.btn:hover, .ible-fontcolor-03-04.btn:active, .ible-fontcolor-03-04.btn:focus, .ible-fontcolor-03-04[href]:hover, .ible-fontcolor-03-04[href]:active, .ible-fontcolor-03-04[href]:focus {
+    color: #c77272; }
+
+/* line 261, ../../sass/themes/ible-theme.original.scss */
+.ible-fontcolor-03-05 {
+  color: #942e2e; }
+  /* line 267, ../../sass/themes/ible-theme.original.scss */
+  .ible-fontcolor-03-05.btn:hover, .ible-fontcolor-03-05.btn:active, .ible-fontcolor-03-05.btn:focus, .ible-fontcolor-03-05[href]:hover, .ible-fontcolor-03-05[href]:active, .ible-fontcolor-03-05[href]:focus {
+    color: #c64848; }
+
+/* line 292, ../../sass/themes/ible-theme.original.scss */
+.ible-bgcolor-04 {
+  background-color: #004D99; }
+  /* line 294, ../../sass/themes/ible-theme.original.scss */
+  .ible-bgcolor-04.btn, .ible-bgcolor-04[href] {
+    border-color: #004D99; }
+    /* line 298, ../../sass/themes/ible-theme.original.scss */
+    .ible-bgcolor-04.btn:hover, .ible-bgcolor-04.btn:active, .ible-bgcolor-04.btn:focus, .ible-bgcolor-04[href]:hover, .ible-bgcolor-04[href]:active, .ible-bgcolor-04[href]:focus {
+      background-color: #0073e6;
+      border-color: #0073e6; }
+
+/* line 292, ../../sass/themes/ible-theme.original.scss */
+.ible-bgcolor-04-01 {
+  background-color: #7fa6cc; }
+  /* line 294, ../../sass/themes/ible-theme.original.scss */
+  .ible-bgcolor-04-01.btn, .ible-bgcolor-04-01[href] {
+    border-color: #7fa6cc; }
+    /* line 298, ../../sass/themes/ible-theme.original.scss */
+    .ible-bgcolor-04-01.btn:hover, .ible-bgcolor-04-01.btn:active, .ible-bgcolor-04-01.btn:focus, .ible-bgcolor-04-01[href]:hover, .ible-bgcolor-04-01[href]:active, .ible-bgcolor-04-01[href]:focus {
+      background-color: #b6cce2;
+      border-color: #b6cce2; }
+
+/* line 292, ../../sass/themes/ible-theme.original.scss */
+.ible-bgcolor-04-02 {
+  background-color: #557ba1; }
+  /* line 294, ../../sass/themes/ible-theme.original.scss */
+  .ible-bgcolor-04-02.btn, .ible-bgcolor-04-02[href] {
+    border-color: #557ba1; }
+    /* line 298, ../../sass/themes/ible-theme.original.scss */
+    .ible-bgcolor-04-02.btn:hover, .ible-bgcolor-04-02.btn:active, .ible-bgcolor-04-02.btn:focus, .ible-bgcolor-04-02[href]:hover, .ible-bgcolor-04-02[href]:active, .ible-bgcolor-04-02[href]:focus {
+      background-color: #84a1be;
+      border-color: #84a1be; }
+
+/* line 292, ../../sass/themes/ible-theme.original.scss */
+.ible-bgcolor-04-03 {
+  background-color: #40668c; }
+  /* line 294, ../../sass/themes/ible-theme.original.scss */
+  .ible-bgcolor-04-03.btn, .ible-bgcolor-04-03[href] {
+    border-color: #40668c; }
+    /* line 298, ../../sass/themes/ible-theme.original.scss */
+    .ible-bgcolor-04-03.btn:hover, .ible-bgcolor-04-03.btn:active, .ible-bgcolor-04-03.btn:focus, .ible-bgcolor-04-03[href]:hover, .ible-bgcolor-04-03[href]:active, .ible-bgcolor-04-03[href]:focus {
+      background-color: #628cb7;
+      border-color: #628cb7; }
+
+/* line 292, ../../sass/themes/ible-theme.original.scss */
+.ible-bgcolor-04-04 {
+  background-color: #2a5177; }
+  /* line 294, ../../sass/themes/ible-theme.original.scss */
+  .ible-bgcolor-04-04.btn, .ible-bgcolor-04-04[href] {
+    border-color: #2a5177; }
+    /* line 298, ../../sass/themes/ible-theme.original.scss */
+    .ible-bgcolor-04-04.btn:hover, .ible-bgcolor-04-04.btn:active, .ible-bgcolor-04-04.btn:focus, .ible-bgcolor-04-04[href]:hover, .ible-bgcolor-04-04[href]:active, .ible-bgcolor-04-04[href]:focus {
+      background-color: #3e77b0;
+      border-color: #3e77b0; }
+
+/* line 292, ../../sass/themes/ible-theme.original.scss */
+.ible-bgcolor-04-05 {
+  background-color: #153b61; }
+  /* line 294, ../../sass/themes/ible-theme.original.scss */
+  .ible-bgcolor-04-05.btn, .ible-bgcolor-04-05[href] {
+    border-color: #153b61; }
+    /* line 298, ../../sass/themes/ible-theme.original.scss */
+    .ible-bgcolor-04-05.btn:hover, .ible-bgcolor-04-05.btn:active, .ible-bgcolor-04-05.btn:focus, .ible-bgcolor-04-05[href]:hover, .ible-bgcolor-04-05[href]:active, .ible-bgcolor-04-05[href]:focus {
+      background-color: #2361a0;
+      border-color: #2361a0; }
+
+/* line 318, ../../sass/themes/ible-theme.original.scss */
+.ible-bordercolor-04 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #004D99; }
+  /* line 322, ../../sass/themes/ible-theme.original.scss */
+  .ible-bordercolor-04.btn, .ible-bordercolor-04[href] {
+    border-color: #004D99; }
+
+/* line 318, ../../sass/themes/ible-theme.original.scss */
+.ible-bordercolor-04-01 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #7fa6cc; }
+  /* line 322, ../../sass/themes/ible-theme.original.scss */
+  .ible-bordercolor-04-01.btn, .ible-bordercolor-04-01[href] {
+    border-color: #7fa6cc; }
+
+/* line 318, ../../sass/themes/ible-theme.original.scss */
+.ible-bordercolor-04-02 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #557ba1; }
+  /* line 322, ../../sass/themes/ible-theme.original.scss */
+  .ible-bordercolor-04-02.btn, .ible-bordercolor-04-02[href] {
+    border-color: #557ba1; }
+
+/* line 318, ../../sass/themes/ible-theme.original.scss */
+.ible-bordercolor-04-03 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #40668c; }
+  /* line 322, ../../sass/themes/ible-theme.original.scss */
+  .ible-bordercolor-04-03.btn, .ible-bordercolor-04-03[href] {
+    border-color: #40668c; }
+
+/* line 318, ../../sass/themes/ible-theme.original.scss */
+.ible-bordercolor-04-04 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #2a5177; }
+  /* line 322, ../../sass/themes/ible-theme.original.scss */
+  .ible-bordercolor-04-04.btn, .ible-bordercolor-04-04[href] {
+    border-color: #2a5177; }
+
+/* line 318, ../../sass/themes/ible-theme.original.scss */
+.ible-bordercolor-04-05 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #153b61; }
+  /* line 322, ../../sass/themes/ible-theme.original.scss */
+  .ible-bordercolor-04-05.btn, .ible-bordercolor-04-05[href] {
+    border-color: #153b61; }
+
+/* line 340, ../../sass/themes/ible-theme.original.scss */
+.ible-fontcolor-04 {
+  color: #004D99; }
+  /* line 346, ../../sass/themes/ible-theme.original.scss */
+  .ible-fontcolor-04.btn:hover, .ible-fontcolor-04.btn:active, .ible-fontcolor-04.btn:focus, .ible-fontcolor-04[href]:hover, .ible-fontcolor-04[href]:active, .ible-fontcolor-04[href]:focus {
+    color: #0073e6; }
+
+/* line 340, ../../sass/themes/ible-theme.original.scss */
+.ible-fontcolor-04-01 {
+  color: #7fa6cc; }
+  /* line 346, ../../sass/themes/ible-theme.original.scss */
+  .ible-fontcolor-04-01.btn:hover, .ible-fontcolor-04-01.btn:active, .ible-fontcolor-04-01.btn:focus, .ible-fontcolor-04-01[href]:hover, .ible-fontcolor-04-01[href]:active, .ible-fontcolor-04-01[href]:focus {
+    color: #b6cce2; }
+
+/* line 340, ../../sass/themes/ible-theme.original.scss */
+.ible-fontcolor-04-02 {
+  color: #557ba1; }
+  /* line 346, ../../sass/themes/ible-theme.original.scss */
+  .ible-fontcolor-04-02.btn:hover, .ible-fontcolor-04-02.btn:active, .ible-fontcolor-04-02.btn:focus, .ible-fontcolor-04-02[href]:hover, .ible-fontcolor-04-02[href]:active, .ible-fontcolor-04-02[href]:focus {
+    color: #84a1be; }
+
+/* line 340, ../../sass/themes/ible-theme.original.scss */
+.ible-fontcolor-04-03 {
+  color: #40668c; }
+  /* line 346, ../../sass/themes/ible-theme.original.scss */
+  .ible-fontcolor-04-03.btn:hover, .ible-fontcolor-04-03.btn:active, .ible-fontcolor-04-03.btn:focus, .ible-fontcolor-04-03[href]:hover, .ible-fontcolor-04-03[href]:active, .ible-fontcolor-04-03[href]:focus {
+    color: #628cb7; }
+
+/* line 340, ../../sass/themes/ible-theme.original.scss */
+.ible-fontcolor-04-04 {
+  color: #2a5177; }
+  /* line 346, ../../sass/themes/ible-theme.original.scss */
+  .ible-fontcolor-04-04.btn:hover, .ible-fontcolor-04-04.btn:active, .ible-fontcolor-04-04.btn:focus, .ible-fontcolor-04-04[href]:hover, .ible-fontcolor-04-04[href]:active, .ible-fontcolor-04-04[href]:focus {
+    color: #3e77b0; }
+
+/* line 340, ../../sass/themes/ible-theme.original.scss */
+.ible-fontcolor-04-05 {
+  color: #153b61; }
+  /* line 346, ../../sass/themes/ible-theme.original.scss */
+  .ible-fontcolor-04-05.btn:hover, .ible-fontcolor-04-05.btn:active, .ible-fontcolor-04-05.btn:focus, .ible-fontcolor-04-05[href]:hover, .ible-fontcolor-04-05[href]:active, .ible-fontcolor-04-05[href]:focus {
+    color: #2361a0; }
+
+/* line 369, ../../sass/themes/ible-theme.original.scss */
+.ible-bgcolor-05 {
+  background-color: #000000; }
+  /* line 371, ../../sass/themes/ible-theme.original.scss */
+  .ible-bgcolor-05.btn, .ible-bgcolor-05[href] {
+    border-color: #000000; }
+    /* line 375, ../../sass/themes/ible-theme.original.scss */
+    .ible-bgcolor-05.btn:hover, .ible-bgcolor-05.btn:active, .ible-bgcolor-05.btn:focus, .ible-bgcolor-05[href]:hover, .ible-bgcolor-05[href]:active, .ible-bgcolor-05[href]:focus {
+      background-color: #262626;
+      border-color: #262626; }
+
+/* line 369, ../../sass/themes/ible-theme.original.scss */
+.ible-bgcolor-05-01 {
+  background-color: white; }
+  /* line 371, ../../sass/themes/ible-theme.original.scss */
+  .ible-bgcolor-05-01.btn, .ible-bgcolor-05-01[href] {
+    border-color: white; }
+    /* line 375, ../../sass/themes/ible-theme.original.scss */
+    .ible-bgcolor-05-01.btn:hover, .ible-bgcolor-05-01.btn:active, .ible-bgcolor-05-01.btn:focus, .ible-bgcolor-05-01[href]:hover, .ible-bgcolor-05-01[href]:active, .ible-bgcolor-05-01[href]:focus {
+      background-color: white;
+      border-color: white; }
+
+/* line 369, ../../sass/themes/ible-theme.original.scss */
+.ible-bgcolor-05-02 {
+  background-color: #efefef; }
+  /* line 371, ../../sass/themes/ible-theme.original.scss */
+  .ible-bgcolor-05-02.btn, .ible-bgcolor-05-02[href] {
+    border-color: #efefef; }
+    /* line 375, ../../sass/themes/ible-theme.original.scss */
+    .ible-bgcolor-05-02.btn:hover, .ible-bgcolor-05-02.btn:active, .ible-bgcolor-05-02.btn:focus, .ible-bgcolor-05-02[href]:hover, .ible-bgcolor-05-02[href]:active, .ible-bgcolor-05-02[href]:focus {
+      background-color: white;
+      border-color: white; }
+
+/* line 369, ../../sass/themes/ible-theme.original.scss */
+.ible-bgcolor-05-03 {
+  background-color: #e3e3e3; }
+  /* line 371, ../../sass/themes/ible-theme.original.scss */
+  .ible-bgcolor-05-03.btn, .ible-bgcolor-05-03[href] {
+    border-color: #e3e3e3; }
+    /* line 375, ../../sass/themes/ible-theme.original.scss */
+    .ible-bgcolor-05-03.btn:hover, .ible-bgcolor-05-03.btn:active, .ible-bgcolor-05-03.btn:focus, .ible-bgcolor-05-03[href]:hover, .ible-bgcolor-05-03[href]:active, .ible-bgcolor-05-03[href]:focus {
+      background-color: white;
+      border-color: white; }
+
+/* line 369, ../../sass/themes/ible-theme.original.scss */
+.ible-bgcolor-05-04 {
+  background-color: #a2a2a2; }
+  /* line 371, ../../sass/themes/ible-theme.original.scss */
+  .ible-bgcolor-05-04.btn, .ible-bgcolor-05-04[href] {
+    border-color: #a2a2a2; }
+    /* line 375, ../../sass/themes/ible-theme.original.scss */
+    .ible-bgcolor-05-04.btn:hover, .ible-bgcolor-05-04.btn:active, .ible-bgcolor-05-04.btn:focus, .ible-bgcolor-05-04[href]:hover, .ible-bgcolor-05-04[href]:active, .ible-bgcolor-05-04[href]:focus {
+      background-color: #c8c8c8;
+      border-color: #c8c8c8; }
+
+/* line 369, ../../sass/themes/ible-theme.original.scss */
+.ible-bgcolor-05-05 {
+  background-color: #2b2b2b; }
+  /* line 371, ../../sass/themes/ible-theme.original.scss */
+  .ible-bgcolor-05-05.btn, .ible-bgcolor-05-05[href] {
+    border-color: #2b2b2b; }
+    /* line 375, ../../sass/themes/ible-theme.original.scss */
+    .ible-bgcolor-05-05.btn:hover, .ible-bgcolor-05-05.btn:active, .ible-bgcolor-05-05.btn:focus, .ible-bgcolor-05-05[href]:hover, .ible-bgcolor-05-05[href]:active, .ible-bgcolor-05-05[href]:focus {
+      background-color: #515151;
+      border-color: #515151; }
+
+/* line 395, ../../sass/themes/ible-theme.original.scss */
+.ible-bordercolor-05 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #000000; }
+  /* line 399, ../../sass/themes/ible-theme.original.scss */
+  .ible-bordercolor-05.btn, .ible-bordercolor-05[href] {
+    border-color: #000000; }
+
+/* line 395, ../../sass/themes/ible-theme.original.scss */
+.ible-bordercolor-05-01 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: white; }
+  /* line 399, ../../sass/themes/ible-theme.original.scss */
+  .ible-bordercolor-05-01.btn, .ible-bordercolor-05-01[href] {
+    border-color: white; }
+
+/* line 395, ../../sass/themes/ible-theme.original.scss */
+.ible-bordercolor-05-02 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #efefef; }
+  /* line 399, ../../sass/themes/ible-theme.original.scss */
+  .ible-bordercolor-05-02.btn, .ible-bordercolor-05-02[href] {
+    border-color: #efefef; }
+
+/* line 395, ../../sass/themes/ible-theme.original.scss */
+.ible-bordercolor-05-03 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #e3e3e3; }
+  /* line 399, ../../sass/themes/ible-theme.original.scss */
+  .ible-bordercolor-05-03.btn, .ible-bordercolor-05-03[href] {
+    border-color: #e3e3e3; }
+
+/* line 395, ../../sass/themes/ible-theme.original.scss */
+.ible-bordercolor-05-04 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #a2a2a2; }
+  /* line 399, ../../sass/themes/ible-theme.original.scss */
+  .ible-bordercolor-05-04.btn, .ible-bordercolor-05-04[href] {
+    border-color: #a2a2a2; }
+
+/* line 395, ../../sass/themes/ible-theme.original.scss */
+.ible-bordercolor-05-05 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #2b2b2b; }
+  /* line 399, ../../sass/themes/ible-theme.original.scss */
+  .ible-bordercolor-05-05.btn, .ible-bordercolor-05-05[href] {
+    border-color: #2b2b2b; }
+
+/* line 417, ../../sass/themes/ible-theme.original.scss */
+.ible-fontcolor-05 {
+  color: #000000; }
+  /* line 423, ../../sass/themes/ible-theme.original.scss */
+  .ible-fontcolor-05.btn:hover, .ible-fontcolor-05.btn:active, .ible-fontcolor-05.btn:focus, .ible-fontcolor-05[href]:hover, .ible-fontcolor-05[href]:active, .ible-fontcolor-05[href]:focus {
+    color: #262626; }
+
+/* line 417, ../../sass/themes/ible-theme.original.scss */
+.ible-fontcolor-05-01 {
+  color: white; }
+  /* line 423, ../../sass/themes/ible-theme.original.scss */
+  .ible-fontcolor-05-01.btn:hover, .ible-fontcolor-05-01.btn:active, .ible-fontcolor-05-01.btn:focus, .ible-fontcolor-05-01[href]:hover, .ible-fontcolor-05-01[href]:active, .ible-fontcolor-05-01[href]:focus {
+    color: white; }
+
+/* line 417, ../../sass/themes/ible-theme.original.scss */
+.ible-fontcolor-05-02 {
+  color: #efefef; }
+  /* line 423, ../../sass/themes/ible-theme.original.scss */
+  .ible-fontcolor-05-02.btn:hover, .ible-fontcolor-05-02.btn:active, .ible-fontcolor-05-02.btn:focus, .ible-fontcolor-05-02[href]:hover, .ible-fontcolor-05-02[href]:active, .ible-fontcolor-05-02[href]:focus {
+    color: white; }
+
+/* line 417, ../../sass/themes/ible-theme.original.scss */
+.ible-fontcolor-05-03 {
+  color: #e3e3e3; }
+  /* line 423, ../../sass/themes/ible-theme.original.scss */
+  .ible-fontcolor-05-03.btn:hover, .ible-fontcolor-05-03.btn:active, .ible-fontcolor-05-03.btn:focus, .ible-fontcolor-05-03[href]:hover, .ible-fontcolor-05-03[href]:active, .ible-fontcolor-05-03[href]:focus {
+    color: white; }
+
+/* line 417, ../../sass/themes/ible-theme.original.scss */
+.ible-fontcolor-05-04 {
+  color: #a2a2a2; }
+  /* line 423, ../../sass/themes/ible-theme.original.scss */
+  .ible-fontcolor-05-04.btn:hover, .ible-fontcolor-05-04.btn:active, .ible-fontcolor-05-04.btn:focus, .ible-fontcolor-05-04[href]:hover, .ible-fontcolor-05-04[href]:active, .ible-fontcolor-05-04[href]:focus {
+    color: #c8c8c8; }
+
+/* line 417, ../../sass/themes/ible-theme.original.scss */
+.ible-fontcolor-05-05 {
+  color: #2b2b2b; }
+  /* line 423, ../../sass/themes/ible-theme.original.scss */
+  .ible-fontcolor-05-05.btn:hover, .ible-fontcolor-05-05.btn:active, .ible-fontcolor-05-05.btn:focus, .ible-fontcolor-05-05[href]:hover, .ible-fontcolor-05-05[href]:active, .ible-fontcolor-05-05[href]:focus {
+    color: #515151; }

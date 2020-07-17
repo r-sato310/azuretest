@@ -1,0 +1,138 @@
+/* pInitial setting
+------------------------------------------*/
+html {
+	font-family: sans-serif;
+	-ms-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
+	overflow: auto;
+}
+body {
+	font-family: Verdana, YuGothic, "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+	font-size: 14px;
+	line-height: 1.8;
+	color: #000;
+	overflow: auto;
+}
+
+@media only screen and (max-width: 690px) {
+	body{
+		font-size: 15px;
+	}
+} /*------------------------------------------*/
+
+
+a {
+	-webkit-tap-highlight-color: rgba(0,0,0,0.3);
+	margin: 0;
+	padding: 0;
+	color: #222;
+}
+a:hover img{opacity: 0.7;}
+
+
+/* parallel align common */
+/************************************************************************/
+.txt_l{ text-align:left;}
+.txt_r{ text-align:right;}
+.txt_c{ text-align:center;}
+
+
+
+/* vertical align common */
+/************************************************************************/
+.valign_t { vertical-align:top;}
+.valign_m { vertical-align:middle;}
+.valign_b { vertical-align:bottom;}
+
+
+
+/* float clear common
+/************************************************************************/
+.clear{clear:both;}
+
+.clearfix:after {
+	content:"";
+	display:table;
+	clear:both;
+}
+
+
+/* image border */
+/************************************************************************/
+.pb img{border:#ddd solid 1px;}
+.pb1 img{border:#ddd solid 1px; padding:1px;}
+.pb2 img{border:#ddd solid 1px; padding:2px;}
+
+
+/* image */
+/************************************************************************/
+.img100 img{
+	max-width: 100%;
+	height: auto;
+}
+
+/* font size */
+/************************************************************************/
+.fs50{font-size:50%; line-height:1.5;}
+.fs60{font-size:60%; line-height:1.5;}
+.fs70{font-size:70%; line-height:1.5;}
+.fs80{font-size:80%; line-height:1.5;}
+.fs90{font-size:90%; line-height:1.5;}
+.fs110{font-size:110%; line-height:1.5;}
+.fs120{font-size:120%; line-height:1.5;}
+.fs130{font-size:130%; line-height:1.5;}
+.fs140{font-size:140%; line-height:1.5;}
+.fs150{font-size:150%; line-height:1.5;}
+.fs160{font-size:160%; line-height:1.5;}
+.fs170{font-size:170%; line-height:1.5;}
+.fs180{font-size:180%; line-height:1.5;}
+.fs190{font-size:190%; line-height:1.5;}
+.fs200{font-size:200%; line-height:1.5;}
+.fs210{font-size:210%; line-height:1.5;}
+.fs220{font-size:220%; line-height:1.5;}
+.fs230{font-size:230%; line-height:1.5;}
+.fs240{font-size:240%; line-height:1.5;}
+.fs250{font-size:250%; line-height:1.5;}
+.fs260{font-size:260%; line-height:1.5;}
+.fs270{font-size:270%; line-height:1.5;}
+.fs280{font-size:280%; line-height:1.5;}
+.fs290{font-size:290%; line-height:1.5;}
+.fs300{font-size:300%; line-height:1.5;}
+
+.fs50_bold{font-size:50%; line-height:1.5; font-weight: bold;}
+.fs60_bold{font-size:60%; line-height:1.5; font-weight: bold;}
+.fs70_bold{font-size:70%; line-height:1.5; font-weight: bold;}
+.fs80_bold{font-size:80%; line-height:1.5; font-weight: bold;}
+.fs90_bold{font-size:90%; line-height:1.5; font-weight: bold;}
+.fs110_bold{font-size:110%; line-height:1.5; font-weight: bold;}
+.fs120_bold{font-size:120%; line-height:1.5; font-weight: bold;}
+.fs130_bold{font-size:130%; line-height:1.5; font-weight: bold;}
+.fs140_bold{font-size:140%; line-height:1.5; font-weight: bold;}
+.fs150_bold{font-size:150%; line-height:1.5; font-weight: bold;}
+.fs160_bold{font-size:160%; line-height:1.5; font-weight: bold;}
+.fs170_bold{font-size:170%; line-height:1.5; font-weight: bold;}
+.fs180_bold{font-size:180%; line-height:1.5; font-weight: bold;}
+.fs190_bold{font-size:190%; line-height:1.5; font-weight: bold;}
+.fs200_bold{font-size:200%; line-height:1.5; font-weight: bold;}
+.fs210_bold{font-size:210%; line-height:1.5; font-weight: bold;}
+.fs220_bold{font-size:220%; line-height:1.5; font-weight: bold;}
+.fs230_bold{font-size:230%; line-height:1.5; font-weight: bold;}
+.fs240_bold{font-size:240%; line-height:1.5; font-weight: bold;}
+.fs250_bold{font-size:250%; line-height:1.5; font-weight: bold;}
+.fs260_bold{font-size:260%; line-height:1.5; font-weight: bold;}
+.fs270_bold{font-size:270%; line-height:1.5; font-weight: bold;}
+.fs280_bold{font-size:280%; line-height:1.5; font-weight: bold;}
+.fs290_bold{font-size:290%; line-height:1.5; font-weight: bold;}
+.fs300_bold{font-size:300%; line-height:1.5; font-weight: bold;}
+
+
+/* list style */
+/************************************************************************/
+.type_none li{list-style:none;}
+.type_disc li{list-style-type:disc; margin-left:20px;}
+.type_square li{list-style-type:square; margin-left:17px;}
+.type_decimal li{list-style-type:decimal; margin-left:25px;}
+.type_loweralpha li{list-style-type:lower-alpha; margin-left:25px;}
+.type_upperalpha li{list-style-type:upper-alpha; margin-left:25px;}
+
+

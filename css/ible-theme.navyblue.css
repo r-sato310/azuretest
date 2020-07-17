@@ -1,0 +1,647 @@
+.t-default a {
+  color: #17375E;
+  cursor: pointer; }
+  .t-default a:hover {
+    color: #265b9b; }
+
+.ible-bgcolor-01 {
+  background-color: #17375E; }
+  .ible-bgcolor-01.btn, .ible-bgcolor-01[href] {
+    border-color: #17375E; }
+    .ible-bgcolor-01.btn:hover, .ible-bgcolor-01.btn:active, .ible-bgcolor-01.btn:focus, .ible-bgcolor-01[href]:hover, .ible-bgcolor-01[href]:active, .ible-bgcolor-01[href]:focus {
+      background-color: #265b9b;
+      border-color: #265b9b; }
+
+.ible-bgcolor-01-01 {
+  background-color: #8b9bae; }
+  .ible-bgcolor-01-01.btn, .ible-bgcolor-01-01[href] {
+    border-color: #8b9bae; }
+    .ible-bgcolor-01-01.btn:hover, .ible-bgcolor-01-01.btn:active, .ible-bgcolor-01-01.btn:focus, .ible-bgcolor-01-01[href]:hover, .ible-bgcolor-01-01[href]:active, .ible-bgcolor-01-01[href]:focus {
+      background-color: #b8c2cd;
+      border-color: #b8c2cd; }
+
+.ible-bgcolor-01-02 {
+  background-color: #607084; }
+  .ible-bgcolor-01-02.btn, .ible-bgcolor-01-02[href] {
+    border-color: #607084; }
+    .ible-bgcolor-01-02.btn:hover, .ible-bgcolor-01-02.btn:active, .ible-bgcolor-01-02.btn:focus, .ible-bgcolor-01-02[href]:hover, .ible-bgcolor-01-02[href]:active, .ible-bgcolor-01-02[href]:focus {
+      background-color: #8896a8;
+      border-color: #8896a8; }
+
+.ible-bgcolor-01-03 {
+  background-color: #4b5b6f; }
+  .ible-bgcolor-01-03.btn, .ible-bgcolor-01-03[href] {
+    border-color: #4b5b6f; }
+    .ible-bgcolor-01-03.btn:hover, .ible-bgcolor-01-03.btn:active, .ible-bgcolor-01-03.btn:focus, .ible-bgcolor-01-03[href]:hover, .ible-bgcolor-01-03[href]:active, .ible-bgcolor-01-03[href]:focus {
+      background-color: #6b819b;
+      border-color: #6b819b; }
+
+.ible-bgcolor-01-04 {
+  background-color: #364659; }
+  .ible-bgcolor-01-04.btn, .ible-bgcolor-01-04[href] {
+    border-color: #364659; }
+    .ible-bgcolor-01-04.btn:hover, .ible-bgcolor-01-04.btn:active, .ible-bgcolor-01-04.btn:focus, .ible-bgcolor-01-04[href]:hover, .ible-bgcolor-01-04[href]:active, .ible-bgcolor-01-04[href]:focus {
+      background-color: #536b89;
+      border-color: #536b89; }
+
+.ible-bgcolor-01-05 {
+  background-color: #203044; }
+  .ible-bgcolor-01-05.btn, .ible-bgcolor-01-05[href] {
+    border-color: #203044; }
+    .ible-bgcolor-01-05.btn:hover, .ible-bgcolor-01-05.btn:active, .ible-bgcolor-01-05.btn:focus, .ible-bgcolor-01-05[href]:hover, .ible-bgcolor-01-05[href]:active, .ible-bgcolor-01-05[href]:focus {
+      background-color: #385578;
+      border-color: #385578; }
+
+.ible-bordercolor-01 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #17375E; }
+  .ible-bordercolor-01.btn, .ible-bordercolor-01[href] {
+    border-color: #17375E; }
+
+.ible-bordercolor-01-01 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #8b9bae; }
+  .ible-bordercolor-01-01.btn, .ible-bordercolor-01-01[href] {
+    border-color: #8b9bae; }
+
+.ible-bordercolor-01-02 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #607084; }
+  .ible-bordercolor-01-02.btn, .ible-bordercolor-01-02[href] {
+    border-color: #607084; }
+
+.ible-bordercolor-01-03 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #4b5b6f; }
+  .ible-bordercolor-01-03.btn, .ible-bordercolor-01-03[href] {
+    border-color: #4b5b6f; }
+
+.ible-bordercolor-01-04 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #364659; }
+  .ible-bordercolor-01-04.btn, .ible-bordercolor-01-04[href] {
+    border-color: #364659; }
+
+.ible-bordercolor-01-05 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #203044; }
+  .ible-bordercolor-01-05.btn, .ible-bordercolor-01-05[href] {
+    border-color: #203044; }
+
+.ible-fontcolor-01 {
+  color: #17375E; }
+  .ible-fontcolor-01.btn:hover, .ible-fontcolor-01.btn:active, .ible-fontcolor-01.btn:focus, .ible-fontcolor-01[href]:hover, .ible-fontcolor-01[href]:active, .ible-fontcolor-01[href]:focus {
+    color: #265b9b; }
+
+.ible-fontcolor-01-01 {
+  color: #8b9bae; }
+  .ible-fontcolor-01-01.btn:hover, .ible-fontcolor-01-01.btn:active, .ible-fontcolor-01-01.btn:focus, .ible-fontcolor-01-01[href]:hover, .ible-fontcolor-01-01[href]:active, .ible-fontcolor-01-01[href]:focus {
+    color: #b8c2cd; }
+
+.ible-fontcolor-01-02 {
+  color: #607084; }
+  .ible-fontcolor-01-02.btn:hover, .ible-fontcolor-01-02.btn:active, .ible-fontcolor-01-02.btn:focus, .ible-fontcolor-01-02[href]:hover, .ible-fontcolor-01-02[href]:active, .ible-fontcolor-01-02[href]:focus {
+    color: #8896a8; }
+
+.ible-fontcolor-01-03 {
+  color: #4b5b6f; }
+  .ible-fontcolor-01-03.btn:hover, .ible-fontcolor-01-03.btn:active, .ible-fontcolor-01-03.btn:focus, .ible-fontcolor-01-03[href]:hover, .ible-fontcolor-01-03[href]:active, .ible-fontcolor-01-03[href]:focus {
+    color: #6b819b; }
+
+.ible-fontcolor-01-04 {
+  color: #364659; }
+  .ible-fontcolor-01-04.btn:hover, .ible-fontcolor-01-04.btn:active, .ible-fontcolor-01-04.btn:focus, .ible-fontcolor-01-04[href]:hover, .ible-fontcolor-01-04[href]:active, .ible-fontcolor-01-04[href]:focus {
+    color: #536b89; }
+
+.ible-fontcolor-01-05 {
+  color: #203044; }
+  .ible-fontcolor-01-05.btn:hover, .ible-fontcolor-01-05.btn:active, .ible-fontcolor-01-05.btn:focus, .ible-fontcolor-01-05[href]:hover, .ible-fontcolor-01-05[href]:active, .ible-fontcolor-01-05[href]:focus {
+    color: #385578; }
+
+.ible-bgcolor-02 {
+  background-color: #005AB5; }
+  .ible-bgcolor-02.btn, .ible-bgcolor-02[href] {
+    border-color: #005AB5; }
+    .ible-bgcolor-02.btn:hover, .ible-bgcolor-02.btn:active, .ible-bgcolor-02.btn:focus, .ible-bgcolor-02[href]:hover, .ible-bgcolor-02[href]:active, .ible-bgcolor-02[href]:focus {
+      background-color: #0280ff;
+      border-color: #0280ff; }
+
+.ible-bgcolor-02-01 {
+  background-color: #7facda; }
+  .ible-bgcolor-02-01.btn, .ible-bgcolor-02-01[href] {
+    border-color: #7facda; }
+    .ible-bgcolor-02-01.btn:hover, .ible-bgcolor-02-01.btn:active, .ible-bgcolor-02-01.btn:focus, .ible-bgcolor-02-01[href]:hover, .ible-bgcolor-02-01[href]:active, .ible-bgcolor-02-01[href]:focus {
+      background-color: #bad2eb;
+      border-color: #bad2eb; }
+
+.ible-bgcolor-02-02 {
+  background-color: #5582af; }
+  .ible-bgcolor-02-02.btn, .ible-bgcolor-02-02[href] {
+    border-color: #5582af; }
+    .ible-bgcolor-02-02.btn:hover, .ible-bgcolor-02-02.btn:active, .ible-bgcolor-02-02.btn:focus, .ible-bgcolor-02-02[href]:hover, .ible-bgcolor-02-02[href]:active, .ible-bgcolor-02-02[href]:focus {
+      background-color: #89a8c7;
+      border-color: #89a8c7; }
+
+.ible-bgcolor-02-03 {
+  background-color: #406d9a; }
+  .ible-bgcolor-02-03.btn, .ible-bgcolor-02-03[href] {
+    border-color: #406d9a; }
+    .ible-bgcolor-02-03.btn:hover, .ible-bgcolor-02-03.btn:active, .ible-bgcolor-02-03.btn:focus, .ible-bgcolor-02-03[href]:hover, .ible-bgcolor-02-03[href]:active, .ible-bgcolor-02-03[href]:focus {
+      background-color: #6793c0;
+      border-color: #6793c0; }
+
+.ible-bgcolor-02-04 {
+  background-color: #2a5785; }
+  .ible-bgcolor-02-04.btn, .ible-bgcolor-02-04[href] {
+    border-color: #2a5785; }
+    .ible-bgcolor-02-04.btn:hover, .ible-bgcolor-02-04.btn:active, .ible-bgcolor-02-04.btn:focus, .ible-bgcolor-02-04[href]:hover, .ible-bgcolor-02-04[href]:active, .ible-bgcolor-02-04[href]:focus {
+      background-color: #3c7dbf;
+      border-color: #3c7dbf; }
+
+.ible-bgcolor-02-05 {
+  background-color: #15426f; }
+  .ible-bgcolor-02-05.btn, .ible-bgcolor-02-05[href] {
+    border-color: #15426f; }
+    .ible-bgcolor-02-05.btn:hover, .ible-bgcolor-02-05.btn:active, .ible-bgcolor-02-05.btn:focus, .ible-bgcolor-02-05[href]:hover, .ible-bgcolor-02-05[href]:active, .ible-bgcolor-02-05[href]:focus {
+      background-color: #2168af;
+      border-color: #2168af; }
+
+.ible-bordercolor-02 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #005AB5; }
+  .ible-bordercolor-02.btn, .ible-bordercolor-02[href] {
+    border-color: #005AB5; }
+
+.ible-bordercolor-02-01 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #7facda; }
+  .ible-bordercolor-02-01.btn, .ible-bordercolor-02-01[href] {
+    border-color: #7facda; }
+
+.ible-bordercolor-02-02 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #5582af; }
+  .ible-bordercolor-02-02.btn, .ible-bordercolor-02-02[href] {
+    border-color: #5582af; }
+
+.ible-bordercolor-02-03 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #406d9a; }
+  .ible-bordercolor-02-03.btn, .ible-bordercolor-02-03[href] {
+    border-color: #406d9a; }
+
+.ible-bordercolor-02-04 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #2a5785; }
+  .ible-bordercolor-02-04.btn, .ible-bordercolor-02-04[href] {
+    border-color: #2a5785; }
+
+.ible-bordercolor-02-05 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #15426f; }
+  .ible-bordercolor-02-05.btn, .ible-bordercolor-02-05[href] {
+    border-color: #15426f; }
+
+.ible-bordercolor-02 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #005AB5; }
+  .ible-bordercolor-02.btn, .ible-bordercolor-02[href] {
+    border-color: #005AB5; }
+
+.ible-bordercolor-02-01 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #7facda; }
+  .ible-bordercolor-02-01.btn, .ible-bordercolor-02-01[href] {
+    border-color: #7facda; }
+
+.ible-bordercolor-02-02 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #5582af; }
+  .ible-bordercolor-02-02.btn, .ible-bordercolor-02-02[href] {
+    border-color: #5582af; }
+
+.ible-bordercolor-02-03 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #406d9a; }
+  .ible-bordercolor-02-03.btn, .ible-bordercolor-02-03[href] {
+    border-color: #406d9a; }
+
+.ible-bordercolor-02-04 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #2a5785; }
+  .ible-bordercolor-02-04.btn, .ible-bordercolor-02-04[href] {
+    border-color: #2a5785; }
+
+.ible-bordercolor-02-05 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #15426f; }
+  .ible-bordercolor-02-05.btn, .ible-bordercolor-02-05[href] {
+    border-color: #15426f; }
+
+.ible-fontcolor-02 {
+  color: #005AB5; }
+  .ible-fontcolor-02.btn:hover, .ible-fontcolor-02.btn:active, .ible-fontcolor-02.btn:focus, .ible-fontcolor-02[href]:hover, .ible-fontcolor-02[href]:active, .ible-fontcolor-02[href]:focus {
+    color: #0280ff; }
+
+.ible-fontcolor-02-01 {
+  color: #7facda; }
+  .ible-fontcolor-02-01.btn:hover, .ible-fontcolor-02-01.btn:active, .ible-fontcolor-02-01.btn:focus, .ible-fontcolor-02-01[href]:hover, .ible-fontcolor-02-01[href]:active, .ible-fontcolor-02-01[href]:focus {
+    color: #bad2eb; }
+
+.ible-fontcolor-02-02 {
+  color: #5582af; }
+  .ible-fontcolor-02-02.btn:hover, .ible-fontcolor-02-02.btn:active, .ible-fontcolor-02-02.btn:focus, .ible-fontcolor-02-02[href]:hover, .ible-fontcolor-02-02[href]:active, .ible-fontcolor-02-02[href]:focus {
+    color: #89a8c7; }
+
+.ible-fontcolor-02-03 {
+  color: #406d9a; }
+  .ible-fontcolor-02-03.btn:hover, .ible-fontcolor-02-03.btn:active, .ible-fontcolor-02-03.btn:focus, .ible-fontcolor-02-03[href]:hover, .ible-fontcolor-02-03[href]:active, .ible-fontcolor-02-03[href]:focus {
+    color: #6793c0; }
+
+.ible-fontcolor-02-04 {
+  color: #2a5785; }
+  .ible-fontcolor-02-04.btn:hover, .ible-fontcolor-02-04.btn:active, .ible-fontcolor-02-04.btn:focus, .ible-fontcolor-02-04[href]:hover, .ible-fontcolor-02-04[href]:active, .ible-fontcolor-02-04[href]:focus {
+    color: #3c7dbf; }
+
+.ible-fontcolor-02-05 {
+  color: #15426f; }
+  .ible-fontcolor-02-05.btn:hover, .ible-fontcolor-02-05.btn:active, .ible-fontcolor-02-05.btn:focus, .ible-fontcolor-02-05[href]:hover, .ible-fontcolor-02-05[href]:active, .ible-fontcolor-02-05[href]:focus {
+    color: #2168af; }
+
+.ible-bgcolor-03 {
+  background-color: #0085BD; }
+  .ible-bgcolor-03.btn, .ible-bgcolor-03[href] {
+    border-color: #0085BD; }
+    .ible-bgcolor-03.btn:hover, .ible-bgcolor-03.btn:active, .ible-bgcolor-03.btn:focus, .ible-bgcolor-03[href]:hover, .ible-bgcolor-03[href]:active, .ible-bgcolor-03[href]:focus {
+      background-color: #0bb7ff;
+      border-color: #0bb7ff; }
+
+.ible-bgcolor-03-01 {
+  background-color: #7fc2de; }
+  .ible-bgcolor-03-01.btn, .ible-bgcolor-03-01[href] {
+    border-color: #7fc2de; }
+    .ible-bgcolor-03-01.btn:hover, .ible-bgcolor-03-01.btn:active, .ible-bgcolor-03-01.btn:focus, .ible-bgcolor-03-01[href]:hover, .ible-bgcolor-03-01[href]:active, .ible-bgcolor-03-01[href]:focus {
+      background-color: #bcdfee;
+      border-color: #bcdfee; }
+
+.ible-bgcolor-03-02 {
+  background-color: #5597b3; }
+  .ible-bgcolor-03-02.btn, .ible-bgcolor-03-02[href] {
+    border-color: #5597b3; }
+    .ible-bgcolor-03-02.btn:hover, .ible-bgcolor-03-02.btn:active, .ible-bgcolor-03-02.btn:focus, .ible-bgcolor-03-02[href]:hover, .ible-bgcolor-03-02[href]:active, .ible-bgcolor-03-02[href]:focus {
+      background-color: #8ab7cb;
+      border-color: #8ab7cb; }
+
+.ible-bgcolor-03-03 {
+  background-color: #40829e; }
+  .ible-bgcolor-03-03.btn, .ible-bgcolor-03-03[href] {
+    border-color: #40829e; }
+    .ible-bgcolor-03-03.btn:hover, .ible-bgcolor-03-03.btn:active, .ible-bgcolor-03-03.btn:focus, .ible-bgcolor-03-03[href]:hover, .ible-bgcolor-03-03[href]:active, .ible-bgcolor-03-03[href]:focus {
+      background-color: #68a7c2;
+      border-color: #68a7c2; }
+
+.ible-bgcolor-03-04 {
+  background-color: #2a6d89; }
+  .ible-bgcolor-03-04.btn, .ible-bgcolor-03-04[href] {
+    border-color: #2a6d89; }
+    .ible-bgcolor-03-04.btn:hover, .ible-bgcolor-03-04.btn:active, .ible-bgcolor-03-04.btn:focus, .ible-bgcolor-03-04[href]:hover, .ible-bgcolor-03-04[href]:active, .ible-bgcolor-03-04[href]:focus {
+      background-color: #3c9bc3;
+      border-color: #3c9bc3; }
+
+.ible-bgcolor-03-05 {
+  background-color: #155773; }
+  .ible-bgcolor-03-05.btn, .ible-bgcolor-03-05[href] {
+    border-color: #155773; }
+    .ible-bgcolor-03-05.btn:hover, .ible-bgcolor-03-05.btn:active, .ible-bgcolor-03-05.btn:focus, .ible-bgcolor-03-05[href]:hover, .ible-bgcolor-03-05[href]:active, .ible-bgcolor-03-05[href]:focus {
+      background-color: #2188b4;
+      border-color: #2188b4; }
+
+.ible-bordercolor-03 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #0085BD; }
+  .ible-bordercolor-03.btn, .ible-bordercolor-03[href] {
+    border-color: #0085BD; }
+
+.ible-bordercolor-03-01 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #7fc2de; }
+  .ible-bordercolor-03-01.btn, .ible-bordercolor-03-01[href] {
+    border-color: #7fc2de; }
+
+.ible-bordercolor-03-02 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #5597b3; }
+  .ible-bordercolor-03-02.btn, .ible-bordercolor-03-02[href] {
+    border-color: #5597b3; }
+
+.ible-bordercolor-03-03 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #40829e; }
+  .ible-bordercolor-03-03.btn, .ible-bordercolor-03-03[href] {
+    border-color: #40829e; }
+
+.ible-bordercolor-03-04 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #2a6d89; }
+  .ible-bordercolor-03-04.btn, .ible-bordercolor-03-04[href] {
+    border-color: #2a6d89; }
+
+.ible-bordercolor-03-05 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #155773; }
+  .ible-bordercolor-03-05.btn, .ible-bordercolor-03-05[href] {
+    border-color: #155773; }
+
+.ible-fontcolor-03 {
+  color: #0085BD; }
+  .ible-fontcolor-03.btn:hover, .ible-fontcolor-03.btn:active, .ible-fontcolor-03.btn:focus, .ible-fontcolor-03[href]:hover, .ible-fontcolor-03[href]:active, .ible-fontcolor-03[href]:focus {
+    color: #0bb7ff; }
+
+.ible-fontcolor-03-01 {
+  color: #7fc2de; }
+  .ible-fontcolor-03-01.btn:hover, .ible-fontcolor-03-01.btn:active, .ible-fontcolor-03-01.btn:focus, .ible-fontcolor-03-01[href]:hover, .ible-fontcolor-03-01[href]:active, .ible-fontcolor-03-01[href]:focus {
+    color: #bcdfee; }
+
+.ible-fontcolor-03-02 {
+  color: #5597b3; }
+  .ible-fontcolor-03-02.btn:hover, .ible-fontcolor-03-02.btn:active, .ible-fontcolor-03-02.btn:focus, .ible-fontcolor-03-02[href]:hover, .ible-fontcolor-03-02[href]:active, .ible-fontcolor-03-02[href]:focus {
+    color: #8ab7cb; }
+
+.ible-fontcolor-03-03 {
+  color: #40829e; }
+  .ible-fontcolor-03-03.btn:hover, .ible-fontcolor-03-03.btn:active, .ible-fontcolor-03-03.btn:focus, .ible-fontcolor-03-03[href]:hover, .ible-fontcolor-03-03[href]:active, .ible-fontcolor-03-03[href]:focus {
+    color: #68a7c2; }
+
+.ible-fontcolor-03-04 {
+  color: #2a6d89; }
+  .ible-fontcolor-03-04.btn:hover, .ible-fontcolor-03-04.btn:active, .ible-fontcolor-03-04.btn:focus, .ible-fontcolor-03-04[href]:hover, .ible-fontcolor-03-04[href]:active, .ible-fontcolor-03-04[href]:focus {
+    color: #3c9bc3; }
+
+.ible-fontcolor-03-05 {
+  color: #155773; }
+  .ible-fontcolor-03-05.btn:hover, .ible-fontcolor-03-05.btn:active, .ible-fontcolor-03-05.btn:focus, .ible-fontcolor-03-05[href]:hover, .ible-fontcolor-03-05[href]:active, .ible-fontcolor-03-05[href]:focus {
+    color: #2188b4; }
+
+.ible-bgcolor-04 {
+  background-color: #FFCC00; }
+  .ible-bgcolor-04.btn, .ible-bgcolor-04[href] {
+    border-color: #FFCC00; }
+    .ible-bgcolor-04.btn:hover, .ible-bgcolor-04.btn:active, .ible-bgcolor-04.btn:focus, .ible-bgcolor-04[href]:hover, .ible-bgcolor-04[href]:active, .ible-bgcolor-04[href]:focus {
+      background-color: #ffdb4d;
+      border-color: #ffdb4d; }
+
+.ible-bgcolor-04-01 {
+  background-color: #ffe57f; }
+  .ible-bgcolor-04-01.btn, .ible-bgcolor-04-01[href] {
+    border-color: #ffe57f; }
+    .ible-bgcolor-04-01.btn:hover, .ible-bgcolor-04-01.btn:active, .ible-bgcolor-04-01.btn:focus, .ible-bgcolor-04-01[href]:hover, .ible-bgcolor-04-01[href]:active, .ible-bgcolor-04-01[href]:focus {
+      background-color: #fff5cc;
+      border-color: #fff5cc; }
+
+.ible-bgcolor-04-02 {
+  background-color: #d4bb55; }
+  .ible-bgcolor-04-02.btn, .ible-bgcolor-04-02[href] {
+    border-color: #d4bb55; }
+    .ible-bgcolor-04-02.btn:hover, .ible-bgcolor-04-02.btn:active, .ible-bgcolor-04-02.btn:focus, .ible-bgcolor-04-02[href]:hover, .ible-bgcolor-04-02[href]:active, .ible-bgcolor-04-02[href]:focus {
+      background-color: #e3d392;
+      border-color: #e3d392; }
+
+.ible-bgcolor-04-03 {
+  background-color: #bfa640; }
+  .ible-bgcolor-04-03.btn, .ible-bgcolor-04-03[href] {
+    border-color: #bfa640; }
+    .ible-bgcolor-04-03.btn:hover, .ible-bgcolor-04-03.btn:active, .ible-bgcolor-04-03.btn:focus, .ible-bgcolor-04-03[href]:hover, .ible-bgcolor-04-03[href]:active, .ible-bgcolor-04-03[href]:focus {
+      background-color: #d2c179;
+      border-color: #d2c179; }
+
+.ible-bgcolor-04-04 {
+  background-color: #aa902a; }
+  .ible-bgcolor-04-04.btn, .ible-bgcolor-04-04[href] {
+    border-color: #aa902a; }
+    .ible-bgcolor-04-04.btn:hover, .ible-bgcolor-04-04.btn:active, .ible-bgcolor-04-04.btn:focus, .ible-bgcolor-04-04[href]:hover, .ible-bgcolor-04-04[href]:active, .ible-bgcolor-04-04[href]:focus {
+      background-color: #d3b84d;
+      border-color: #d3b84d; }
+
+.ible-bgcolor-04-05 {
+  background-color: #947b15; }
+  .ible-bgcolor-04-05.btn, .ible-bgcolor-04-05[href] {
+    border-color: #947b15; }
+    .ible-bgcolor-04-05.btn:hover, .ible-bgcolor-04-05.btn:active, .ible-bgcolor-04-05.btn:focus, .ible-bgcolor-04-05[href]:hover, .ible-bgcolor-04-05[href]:active, .ible-bgcolor-04-05[href]:focus {
+      background-color: #d7b31f;
+      border-color: #d7b31f; }
+
+.ible-bordercolor-04 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #FFCC00; }
+  .ible-bordercolor-04.btn, .ible-bordercolor-04[href] {
+    border-color: #FFCC00; }
+
+.ible-bordercolor-04-01 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #ffe57f; }
+  .ible-bordercolor-04-01.btn, .ible-bordercolor-04-01[href] {
+    border-color: #ffe57f; }
+
+.ible-bordercolor-04-02 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #d4bb55; }
+  .ible-bordercolor-04-02.btn, .ible-bordercolor-04-02[href] {
+    border-color: #d4bb55; }
+
+.ible-bordercolor-04-03 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #bfa640; }
+  .ible-bordercolor-04-03.btn, .ible-bordercolor-04-03[href] {
+    border-color: #bfa640; }
+
+.ible-bordercolor-04-04 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #aa902a; }
+  .ible-bordercolor-04-04.btn, .ible-bordercolor-04-04[href] {
+    border-color: #aa902a; }
+
+.ible-bordercolor-04-05 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #947b15; }
+  .ible-bordercolor-04-05.btn, .ible-bordercolor-04-05[href] {
+    border-color: #947b15; }
+
+.ible-fontcolor-04 {
+  color: #FFCC00; }
+  .ible-fontcolor-04.btn:hover, .ible-fontcolor-04.btn:active, .ible-fontcolor-04.btn:focus, .ible-fontcolor-04[href]:hover, .ible-fontcolor-04[href]:active, .ible-fontcolor-04[href]:focus {
+    color: #ffdb4d; }
+
+.ible-fontcolor-04-01 {
+  color: #ffe57f; }
+  .ible-fontcolor-04-01.btn:hover, .ible-fontcolor-04-01.btn:active, .ible-fontcolor-04-01.btn:focus, .ible-fontcolor-04-01[href]:hover, .ible-fontcolor-04-01[href]:active, .ible-fontcolor-04-01[href]:focus {
+    color: #fff5cc; }
+
+.ible-fontcolor-04-02 {
+  color: #d4bb55; }
+  .ible-fontcolor-04-02.btn:hover, .ible-fontcolor-04-02.btn:active, .ible-fontcolor-04-02.btn:focus, .ible-fontcolor-04-02[href]:hover, .ible-fontcolor-04-02[href]:active, .ible-fontcolor-04-02[href]:focus {
+    color: #e3d392; }
+
+.ible-fontcolor-04-03 {
+  color: #bfa640; }
+  .ible-fontcolor-04-03.btn:hover, .ible-fontcolor-04-03.btn:active, .ible-fontcolor-04-03.btn:focus, .ible-fontcolor-04-03[href]:hover, .ible-fontcolor-04-03[href]:active, .ible-fontcolor-04-03[href]:focus {
+    color: #d2c179; }
+
+.ible-fontcolor-04-04 {
+  color: #aa902a; }
+  .ible-fontcolor-04-04.btn:hover, .ible-fontcolor-04-04.btn:active, .ible-fontcolor-04-04.btn:focus, .ible-fontcolor-04-04[href]:hover, .ible-fontcolor-04-04[href]:active, .ible-fontcolor-04-04[href]:focus {
+    color: #d3b84d; }
+
+.ible-fontcolor-04-05 {
+  color: #947b15; }
+  .ible-fontcolor-04-05.btn:hover, .ible-fontcolor-04-05.btn:active, .ible-fontcolor-04-05.btn:focus, .ible-fontcolor-04-05[href]:hover, .ible-fontcolor-04-05[href]:active, .ible-fontcolor-04-05[href]:focus {
+    color: #d7b31f; }
+
+.ible-bgcolor-05 {
+  background-color: #000000; }
+  .ible-bgcolor-05.btn, .ible-bgcolor-05[href] {
+    border-color: #000000; }
+    .ible-bgcolor-05.btn:hover, .ible-bgcolor-05.btn:active, .ible-bgcolor-05.btn:focus, .ible-bgcolor-05[href]:hover, .ible-bgcolor-05[href]:active, .ible-bgcolor-05[href]:focus {
+      background-color: #262626;
+      border-color: #262626; }
+
+.ible-bgcolor-05-01 {
+  background-color: white; }
+  .ible-bgcolor-05-01.btn, .ible-bgcolor-05-01[href] {
+    border-color: white; }
+    .ible-bgcolor-05-01.btn:hover, .ible-bgcolor-05-01.btn:active, .ible-bgcolor-05-01.btn:focus, .ible-bgcolor-05-01[href]:hover, .ible-bgcolor-05-01[href]:active, .ible-bgcolor-05-01[href]:focus {
+      background-color: white;
+      border-color: white; }
+
+.ible-bgcolor-05-02 {
+  background-color: #efefef; }
+  .ible-bgcolor-05-02.btn, .ible-bgcolor-05-02[href] {
+    border-color: #efefef; }
+    .ible-bgcolor-05-02.btn:hover, .ible-bgcolor-05-02.btn:active, .ible-bgcolor-05-02.btn:focus, .ible-bgcolor-05-02[href]:hover, .ible-bgcolor-05-02[href]:active, .ible-bgcolor-05-02[href]:focus {
+      background-color: white;
+      border-color: white; }
+
+.ible-bgcolor-05-03 {
+  background-color: #e3e3e3; }
+  .ible-bgcolor-05-03.btn, .ible-bgcolor-05-03[href] {
+    border-color: #e3e3e3; }
+    .ible-bgcolor-05-03.btn:hover, .ible-bgcolor-05-03.btn:active, .ible-bgcolor-05-03.btn:focus, .ible-bgcolor-05-03[href]:hover, .ible-bgcolor-05-03[href]:active, .ible-bgcolor-05-03[href]:focus {
+      background-color: white;
+      border-color: white; }
+
+.ible-bgcolor-05-04 {
+  background-color: #a2a2a2; }
+  .ible-bgcolor-05-04.btn, .ible-bgcolor-05-04[href] {
+    border-color: #a2a2a2; }
+    .ible-bgcolor-05-04.btn:hover, .ible-bgcolor-05-04.btn:active, .ible-bgcolor-05-04.btn:focus, .ible-bgcolor-05-04[href]:hover, .ible-bgcolor-05-04[href]:active, .ible-bgcolor-05-04[href]:focus {
+      background-color: #c8c8c8;
+      border-color: #c8c8c8; }
+
+.ible-bgcolor-05-05 {
+  background-color: #2b2b2b; }
+  .ible-bgcolor-05-05.btn, .ible-bgcolor-05-05[href] {
+    border-color: #2b2b2b; }
+    .ible-bgcolor-05-05.btn:hover, .ible-bgcolor-05-05.btn:active, .ible-bgcolor-05-05.btn:focus, .ible-bgcolor-05-05[href]:hover, .ible-bgcolor-05-05[href]:active, .ible-bgcolor-05-05[href]:focus {
+      background-color: #515151;
+      border-color: #515151; }
+
+.ible-bordercolor-05 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #000000; }
+  .ible-bordercolor-05.btn, .ible-bordercolor-05[href] {
+    border-color: #000000; }
+
+.ible-bordercolor-05-01 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: white; }
+  .ible-bordercolor-05-01.btn, .ible-bordercolor-05-01[href] {
+    border-color: white; }
+
+.ible-bordercolor-05-02 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #efefef; }
+  .ible-bordercolor-05-02.btn, .ible-bordercolor-05-02[href] {
+    border-color: #efefef; }
+
+.ible-bordercolor-05-03 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #e3e3e3; }
+  .ible-bordercolor-05-03.btn, .ible-bordercolor-05-03[href] {
+    border-color: #e3e3e3; }
+
+.ible-bordercolor-05-04 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #a2a2a2; }
+  .ible-bordercolor-05-04.btn, .ible-bordercolor-05-04[href] {
+    border-color: #a2a2a2; }
+
+.ible-bordercolor-05-05 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #2b2b2b; }
+  .ible-bordercolor-05-05.btn, .ible-bordercolor-05-05[href] {
+    border-color: #2b2b2b; }
+
+.ible-fontcolor-05 {
+  color: #000000; }
+  .ible-fontcolor-05.btn:hover, .ible-fontcolor-05.btn:active, .ible-fontcolor-05.btn:focus, .ible-fontcolor-05[href]:hover, .ible-fontcolor-05[href]:active, .ible-fontcolor-05[href]:focus {
+    color: #262626; }
+
+.ible-fontcolor-05-01 {
+  color: white; }
+  .ible-fontcolor-05-01.btn:hover, .ible-fontcolor-05-01.btn:active, .ible-fontcolor-05-01.btn:focus, .ible-fontcolor-05-01[href]:hover, .ible-fontcolor-05-01[href]:active, .ible-fontcolor-05-01[href]:focus {
+    color: white; }
+
+.ible-fontcolor-05-02 {
+  color: #efefef; }
+  .ible-fontcolor-05-02.btn:hover, .ible-fontcolor-05-02.btn:active, .ible-fontcolor-05-02.btn:focus, .ible-fontcolor-05-02[href]:hover, .ible-fontcolor-05-02[href]:active, .ible-fontcolor-05-02[href]:focus {
+    color: white; }
+
+.ible-fontcolor-05-03 {
+  color: #e3e3e3; }
+  .ible-fontcolor-05-03.btn:hover, .ible-fontcolor-05-03.btn:active, .ible-fontcolor-05-03.btn:focus, .ible-fontcolor-05-03[href]:hover, .ible-fontcolor-05-03[href]:active, .ible-fontcolor-05-03[href]:focus {
+    color: white; }
+
+.ible-fontcolor-05-04 {
+  color: #a2a2a2; }
+  .ible-fontcolor-05-04.btn:hover, .ible-fontcolor-05-04.btn:active, .ible-fontcolor-05-04.btn:focus, .ible-fontcolor-05-04[href]:hover, .ible-fontcolor-05-04[href]:active, .ible-fontcolor-05-04[href]:focus {
+    color: #c8c8c8; }
+
+.ible-fontcolor-05-05 {
+  color: #2b2b2b; }
+  .ible-fontcolor-05-05.btn:hover, .ible-fontcolor-05-05.btn:active, .ible-fontcolor-05-05.btn:focus, .ible-fontcolor-05-05[href]:hover, .ible-fontcolor-05-05[href]:active, .ible-fontcolor-05-05[href]:focus {
+    color: #515151; }
