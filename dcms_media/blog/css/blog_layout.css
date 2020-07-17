@@ -1,0 +1,296 @@
+/* common ************************************/
+time {
+  display: block;
+  color: #555; }
+
+@media only screen and (max-width: 690px) {
+  time {
+    font-size: 1.2rem; } }
+/* title *************************************/
+h1, h2, h3, h4, h5, h6 {
+  letter-spacing: 0.05em; }
+
+/* contents **********************************/
+#contents {
+  margin-top: 30px;
+  max-width: 1100px;
+  width: calc(100% - 3%);
+  margin-left: auto;
+  margin-right: auto;
+  /* */ }
+  @media only screen and (max-width: 690px) {
+    #contents {
+      width: calc(100% - 8%); } }
+  #contents #contents_left {
+    width: 72%;
+    float: left; }
+  #contents #contents_right {
+    width: 25%;
+    float: right; }
+    @media only screen and (max-width: 690px) {
+      #contents #contents_right {
+        margin-top: 30px; } }
+  @media screen and (max-width: 979px) {
+    #contents #contents_left,
+    #contents #contents_right {
+      width: 100%;
+      float: none; }
+    #contents #contents_right {
+      margin-top: 40px; } }
+  @media only screen and (max-width: 690px) {
+    #contents {
+      margin: 30px auto; } }
+
+/* article list **********************************/
+article {
+  margin-bottom: 15px;
+  padding-bottom: 15px;
+  border-bottom: 1px dotted #dddddd; }
+  article .post_thumbnail {
+    float: left;
+    width: 27%; }
+    @media only screen and (max-width: 690px) {
+      article .post_thumbnail {
+        width: 34%; } }
+    article .post_thumbnail img {
+      width: auto;
+      max-width: 100%;
+      height: auto; }
+  article:after {
+    content: "";
+    display: table;
+    clear: both; }
+  article .info {
+    float: right;
+    width: 70%; }
+    @media only screen and (max-width: 690px) {
+      article .info {
+        width: 62%; } }
+    article .info .title {
+      font-size: 1.7rem;
+      line-height: 1.5;
+      margin: 8px 0 15px; }
+      @media only screen and (max-width: 690px) {
+        article .info .title {
+          margin: 6px 0 6px;
+          font-size: 1.5rem;
+          line-height: 1.4; } }
+    article .info time {
+      line-height: 1;
+      position: relative;
+      font-size: 1.2rem;
+      color: #000000; }
+
+/* title **********************************/
+.pagetitle {
+  font-size: 2.8rem;
+  color: #4683CE;
+  margin-bottom: 20px;
+  line-height: 1.3; }
+  @media only screen and (max-width: 690px) {
+    .pagetitle {
+      font-size: 2.1rem;
+      margin-bottom: 15px; } }
+
+/* SNS **********************************/
+.sns_share.foot {
+  padding-top: 20px;
+  border-top: 1px dotted #dddddd;
+  margin-top: 35px; }
+.sns_share li {
+  float: left;
+  list-style: none;
+  margin-bottom: 5px;
+  margin-right: 10px;
+  width: 90px;
+  line-height: 22px; }
+.sns_share .line a {
+  background: #00c300 none repeat scroll 0 0;
+  color: #ffffff;
+  display: block;
+  font-size: 1.1rem;
+  text-align: center; }
+
+@media only screen and (max-width: 690px) {
+  article .info .sns_share {
+    display: none; } }
+/* main detail **********************************/
+.cover {
+  text-align: content;
+  margin: 25px auto 40px; }
+  .cover img {
+    max-width: 100%;
+    height: auto;
+    width: auto;
+    display: block;
+    margin: auto; }
+
+#main {
+  padding: 20px;
+  border: 1px solid #eeeeee;
+  line-height: 2;
+  font-size: 1.5rem; }
+  @media only screen and (max-width: 690px) {
+    #main {
+      padding: 0;
+      border: none; } }
+  #main h1 {
+    font-size: 3rem;
+    line-height: 1.5;
+    margin: 10px 0 20px; }
+    @media only screen and (max-width: 690px) {
+      #main h1 {
+        font-size: 2.4rem;
+        margin-bottom: 15px; } }
+  #main .taglist {
+    margin: 5px 0 16px; }
+  #main h2 {
+    font-size: 2.2rem;
+    line-height: 1.5;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    border-bottom: 3px solid #4683CE; }
+    @media only screen and (max-width: 690px) {
+      #main h2 {
+        font-size: 2rem; } }
+  #main h3 {
+    font-size: 2rem;
+    line-height: 1.5;
+    padding-left: 12px;
+    margin-bottom: 16px;
+    border-left: 5px solid #4683CE; }
+    @media only screen and (max-width: 690px) {
+      #main h3 {
+        font-size: 1.8rem; } }
+  #main h4 {
+    font-size: 1.8rem;
+    line-height: 1.5;
+    margin-bottom: 10px; }
+    @media only screen and (max-width: 690px) {
+      #main h4 {
+        font-size: 1.7rem; } }
+
+/* next prev **********************************/
+#nextprev {
+  margin-top: 24px;
+  margin-bottom: 56px; }
+  #nextprev li {
+    list-style: none; }
+    #nextprev li a {
+      font-weight: bold; }
+      #nextprev li a:hover {
+        color: #4683CE;
+        text-decoration: none; }
+  #nextprev .prev {
+    float: left; }
+  #nextprev .next {
+    float: right; }
+
+/* contact **********************************/
+.contact {
+  margin-top: 32px; }
+  .contact .title {
+    text-align: center;
+    color: #ffffff;
+    font-size: 2rem;
+    font-weight: bold;
+    line-height: 1;
+    letter-spacing: .08em;
+    padding: 15px 8px;
+    background-color: #4683CE; }
+    @media only screen and (max-width: 560px) {
+      .contact .title {
+        font-size: 1.8rem; } }
+  .contact .txt {
+    padding: 32px 16px;
+    border-bottom: 2px solid #eeeeee;
+    border-right: 2px solid #eeeeee;
+    border-left: 2px solid #eeeeee;
+    font-size: 0; }
+    @media only screen and (max-width: 560px) {
+      .contact .txt {
+        padding: 26px 5%; } }
+    .contact .txt div {
+      display: inline-block;
+      text-align: center;
+      width: 50%;
+      font-size: 2rem;
+      line-height: 1;
+      vertical-align: middle; }
+      @media only screen and (max-width: 560px) {
+        .contact .txt div {
+          width: 100%; } }
+      .contact .txt div.tel {
+        font-size: 2.8rem; }
+        @media only screen and (max-width: 560px) {
+          .contact .txt div.tel {
+            margin-bottom: 16px; } }
+        .contact .txt div.tel span {
+          background: url(../image/icon_tel.png) no-repeat left center/24px auto;
+          padding-left: 35px; }
+      .contact .txt div.mail {
+        padding: 0 3%; }
+        @media only screen and (max-width: 560px) {
+          .contact .txt div.mail {
+            padding: 0 10%; } }
+        .contact .txt div.mail a {
+          display: block;
+          background-color: #FFAD2B;
+          color: #ffffff;
+          padding: 15px;
+          border-radius: 4px; }
+          .contact .txt div.mail a .in {
+            background: url(../image/icon_letter.png) no-repeat left center/24px auto;
+            padding-left: 40px; }
+
+/* relation **********************************/
+#relation {
+  margin-top: 40px; }
+  #relation article {
+    border-bottom: none;
+    margin-bottom: 24px;
+    padding-bottom: 0;
+    float: left;
+    width: 49%;
+    margin-right: 2%; }
+    #relation article:nth-of-type(2n) {
+      margin-right: 0; }
+    @media only screen and (max-width: 690px) {
+      #relation article {
+        float: none;
+        width: 100%;
+        margin-bottom: 15px; } }
+  #relation .title {
+    font-size: 2.4rem;
+    margin-bottom: 24px;
+    padding-bottom: 10px;
+    line-height: 1;
+    border-bottom: 3px solid #eeeeee; }
+  #relation:after {
+    content: "";
+    display: table;
+    clear: both; }
+
+.relationlist .post_thumbnail {
+  float: left;
+  width: 35%; }
+  .relationlist .post_thumbnail img {
+    max-width: 100%;
+    width: auto;
+    height: auto; }
+.relationlist time,
+.relationlist .txt {
+  float: right;
+  width: 60%; }
+.relationlist time {
+  color: #777777;
+  margin-top: -5px;
+  font-size: 1.2rem; }
+.relationlist .txt {
+  font-size: 1.3rem;
+  margin-top: 3px; }
+  @media only screen and (max-width: 690px) {
+    .relationlist .txt {
+      margin-top: 0; } }
+
+/*# sourceMappingURL=blog_layout.css.map */

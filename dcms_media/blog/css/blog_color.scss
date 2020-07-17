@@ -1,0 +1,43 @@
+//color
+$color-main: #4683CE; //blue
+$color-sub-blue: #98BEEC; //sky blue
+$color-gray: #9BA3AE; //gray
+$color-link: #276CBF; //blue
+$color-cv: #FFAD2B; //orange
+$color-white: #ffffff; //white
+$color-black: #000000; //black
+
+//mixin include
+@mixin content-w{
+    max-width: 1100px;
+    width: calc(100% - 3%);
+    margin-left: auto;
+    margin-right: auto;
+    @media only screen and (max-width:690px) {
+        width: calc(100% - 8%);
+    }
+}
+@mixin box-border{
+    background-color: #fafafa;
+    border-style: solid;
+    border-width: 0 1px 1px 1px;
+    border-color: #eeeeee;
+}
+@mixin link-arrow{
+    content: "";
+    width: 6px;
+    height: 6px;
+    border-style: solid;
+    border-width: 2px 2px 0 0;
+    border-color: $color-link;
+    transform: rotate(45deg);
+    position: absolute;
+    top: 50%;
+    left: -14px;
+    margin-top: -3px;
+}
+@mixin clearfix{
+    content:"";
+    display:table;
+    clear:both;
+}

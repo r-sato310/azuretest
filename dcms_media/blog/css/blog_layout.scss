@@ -1,0 +1,352 @@
+/* common ************************************/
+time{
+	display: block;
+	color: #555;
+}
+@media only screen and (max-width:690px) {
+	time{font-size: 1.2rem;}
+}
+
+/* title *************************************/
+h1,h2,h3,h4,h5,h6{letter-spacing: 0.05em;}
+
+
+@import "blog_color.scss";
+
+/* contents **********************************/
+#contents{
+	margin-top: 30px;
+	@include content-w;
+	#contents_left{
+		width: 72%;
+		float: left;
+	}
+	#contents_right{
+		width: 25%;
+		float: right;
+		@media only screen and (max-width:690px) {
+			margin-top: 30px;
+		}
+	}
+	@media screen and (max-width: 979px) {
+		#contents_left,
+		#contents_right{
+			width: 100%;
+			float: none;
+		}
+		#contents_right{
+			margin-top: 40px;
+		}
+	} /* */
+	@media only screen and (max-width:690px) {
+		margin: 30px auto;
+	}
+}
+
+/* article list **********************************/
+article{
+	margin-bottom: 15px;
+	padding-bottom: 15px;
+	border-bottom: 1px dotted #dddddd;
+	.post_thumbnail{
+		float: left;
+		width: 27%;
+		@media only screen and (max-width:690px) {
+			width: 34%;
+		}
+		img{
+			width: auto;
+			max-width: 100%;
+			height: auto;
+		}
+	}
+	&:after {
+		@include clearfix;
+	}
+	.info{
+		float: right;
+		width: 70%;
+		@media only screen and (max-width:690px) {
+			width: 62%;
+		}
+		.title{
+			font-size: 1.7rem;
+			line-height: 1.5;
+			margin: 8px 0 15px;
+			@media only screen and (max-width:690px) {
+				margin: 6px 0 6px;
+				font-size: 1.5rem;
+				line-height: 1.4;
+			}
+		}
+		time{
+			line-height: 1;
+			position: relative;
+			font-size: 1.2rem;
+			color: $color-black;
+		}
+	}
+}
+
+
+/* title **********************************/
+.pagetitle{
+	font-size: 2.8rem;
+	color: $color-main;
+	margin-bottom: 20px;
+	line-height: 1.3;
+	@media only screen and (max-width:690px) {
+		font-size: 2.1rem;
+		margin-bottom: 15px;
+	}
+}
+
+/* SNS **********************************/
+.sns_share{
+	&.foot{
+		padding-top: 20px;
+		border-top: 1px dotted #dddddd;
+		margin-top: 35px; 
+	}
+	li{
+		float: left;
+		list-style: none;
+		margin-bottom: 5px;
+		margin-right: 10px;
+		width: 90px;
+		line-height: 22px;
+	}
+	.line{
+		a{
+			background: #00c300 none repeat scroll 0 0;
+			color: #ffffff;
+			display: block;
+			font-size: 1.1rem;
+			text-align: center;
+		}
+	}
+}
+@media only screen and (max-width:690px) {
+	article{
+		.info{
+			.sns_share{
+				display: none;
+			}
+		}
+	}
+}
+
+
+/* main detail **********************************/
+.cover{
+	text-align: content;
+	margin: 25px auto 40px;
+	img{
+		max-width: 100%;
+		height: auto;
+		width: auto;
+		display: block;
+		margin: auto;
+	}
+}
+#main{
+	padding: 20px;
+	border: 1px solid #eeeeee;
+	line-height: 2;
+	font-size: 1.5rem;
+	@media only screen and (max-width:690px) {
+		padding: 0;
+		border: none;
+	}
+	h1{
+		font-size: 3rem;
+		line-height: 1.5;
+		margin: 10px 0 20px;
+			@media only screen and (max-width:690px) {
+				font-size: 2.4rem;
+				margin-bottom: 15px;
+			}
+	}
+	.taglist{
+		margin: 5px 0 16px;
+	}
+	h2{
+		font-size: 2.2rem;
+		line-height: 1.5;
+		padding-bottom: 10px;
+		margin-bottom: 20px;
+		border-bottom: 3px solid $color-main;
+		@media only screen and (max-width:690px) {
+			font-size: 2rem;
+		}
+	}
+	h3{
+		font-size: 2rem;
+		line-height: 1.5;
+		padding-left: 12px;
+		margin-bottom: 16px;
+		border-left: 5px solid $color-main;
+		@media only screen and (max-width:690px) {
+			font-size: 1.8rem;
+		} 
+	}
+	h4{
+		font-size: 1.8rem;
+		line-height: 1.5;
+		margin-bottom: 10px;
+		@media only screen and (max-width:690px) {
+			font-size: 1.7rem;
+		}
+	}
+}
+
+
+/* next prev **********************************/
+#nextprev{
+	margin-top: 24px;
+	margin-bottom: 56px;
+	li{
+		list-style: none;
+			a{
+				font-weight: bold;
+				&:hover{
+					color: $color-main;
+					text-decoration: none;
+				}
+			}
+	}
+	.prev{
+		float: left;
+	}
+	.next{
+		float: right;
+	}
+}
+
+
+
+/* contact **********************************/
+.contact{
+	margin-top: 32px;
+	.title{
+		text-align: center;
+		color: $color-white;
+		font-size: 2rem;
+		font-weight: bold;
+		line-height: 1;
+		letter-spacing: .08em;
+		padding: 15px 8px;
+		background-color: $color-main;
+		@media only screen and (max-width:560px) {
+			font-size: 1.8rem;
+		}
+	}
+	.txt{
+		padding: 32px 16px;
+		border-bottom: 2px solid #eeeeee;
+		border-right: 2px solid #eeeeee;
+		border-left: 2px solid #eeeeee;
+		font-size: 0;
+		@media only screen and (max-width:560px) {
+			padding: 26px 5%;
+		}
+		div{
+			display: inline-block;
+			text-align: center; 
+			width: 50%;
+			font-size: 2rem;
+			line-height: 1;
+			vertical-align: middle;
+			@media only screen and (max-width:560px) {
+				width: 100%;
+			}
+			&.tel{
+				font-size: 2.8rem;
+				@media only screen and (max-width:560px) {
+					margin-bottom: 16px;
+				}
+				span{
+					background: url(../image/icon_tel.png) no-repeat left center / 24px auto;
+					padding-left: 35px;
+				}
+			}
+			&.mail{
+				padding: 0 3%;
+				@media only screen and (max-width:560px) {
+					padding: 0 10%;
+				}
+				a{
+					display: block;
+					background-color: $color-cv;
+					color: $color-white;
+					padding: 15px;
+					border-radius: 4px;
+					.in{
+						background: url(../image/icon_letter.png) no-repeat left center / 24px auto;
+						padding-left: 40px;
+					}
+				}
+			}
+		}
+	}
+}
+
+
+/* relation **********************************/
+#relation{
+	margin-top: 40px;
+	article{
+		border-bottom: none;
+		margin-bottom: 24px;
+		padding-bottom: 0;
+		float: left;
+		width: 49%;
+		margin-right: 2%;
+		&:nth-of-type(2n){margin-right: 0;}
+		@media only screen and (max-width: 690px) {
+			float: none;
+			width: 100%;
+			margin-bottom: 15px;
+		}
+	}
+	.title{
+		font-size: 2.4rem;
+		margin-bottom: 24px;
+		padding-bottom: 10px;
+		line-height: 1;
+		border-bottom: 3px solid #eeeeee;
+	}
+	&:after{
+		content:"";
+		display:table;
+		clear:both;
+	}
+}
+.relationlist{
+	.post_thumbnail{
+		float: left;
+		width: 35%;
+		img{
+			max-width: 100%;
+			width: auto;
+			height: auto;
+		}
+	}
+	time,
+	.txt{
+		float: right;
+		width: 60%;
+	}
+	time{
+		color: #777777;
+		margin-top: -5px;
+		font-size: 1.2rem;
+	}
+	.txt{
+		font-size: 1.3rem;
+		margin-top: 3px;
+		@media only screen and (max-width: 690px) {
+			margin-top: 0;
+		}
+	}
+}
